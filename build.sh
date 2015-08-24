@@ -14,13 +14,15 @@ jekyll build
 
 # cleanup
 rm -rf ../${GH_ORG}.github.io.master
+mkdir ../${GH_ORG}.github.io.master
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
 git clone https://${GH_TOKEN}@github.com/${GH_ORG}/${GH_ORG}.github.io.git ../riodelamiel.github.io.master
 
 # copy generated HTML site to `master' branch
 cd _site
-rsync -v -r --delete --exclude=build.sh * ../${GH_ORG}.github.io.master
+
+rsync -v -r --delete --exclude=build.sh * ../${GH_ORG}.github.io.master/*
 
 cd ../${GH_ORG}.github.io.master
 
