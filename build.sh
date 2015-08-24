@@ -12,8 +12,6 @@ set -e
 DIR=`pwd`
 MASTER_DIR=$DIR/../${GH_ORG}.github.io.master
 
-npm init
-
 # generate bootstrap stylesheets from less
 grunt
 
