@@ -1,16 +1,74 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>www.riodelamiel.eu</title>
-    <link rel="stylesheet" type="text/css" href="css/main.css" />
-  </head>
+<head>
+<meta charset="utf-8">
+<title>Rio de la Miel</title>
 
-  <body>
-    <div>
-      <h1>www.riodelamiel.eu</h1>
-      <h2>Seite im Aufbau - Under construction</h2>
+<link rel="stylesheet" type="text/css" href="/css/main.css" />
+
+</head>
+<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+<div id="fade"></div>
+
+<div id="main" class="content" role="main" itemprop="mainContentOfPage">
+    <div class="container">
+        <div class="row">
+            <div class="page-body col-md-10 col-md-offset-1" itemprop="description">
+                <h1>Rio de la Miel</h1>
+<div class="sect1">
+<h2 id="die-seite-befindet-sich-im-aufbau">Die Seite befindet sich im Aufbau</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="under-construction">Under construction</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+            </div>    
+        </div>
     </div>
-  </body>
+</div>
+    <footer id="footer"  class="blog-background overlay text-center align-middle animated from-top" style="background-image: url(/images/)" >
+
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script>
+<script type="text/javascript" src="/scripts/waypoints.min.js"></script>
+<script type="text/javascript" src="/scripts/script.js"></script>
+
+<script type="text/javascript">
+
+/*      Slides       */
+
+$("a#slide").click(function(){
+    $("#sidebar,body,a#slide,#fade").addClass("slide")
+});
+
+$("#fade,#header,#posts-container").click(function(){
+    $("#sidebar,body,a#slide,#fade").removeClass("slide")
+});
+
+$("a#click-filter").click(function(){
+    $("#slide-filter").slideToggle("medium");
+    $("#slide-pages").slideOut("medium");
+});
+
+$("a#click-pages").click(function(){
+    $("#slide-pages").slideToggle("medium");
+    $("#slide-filter").slideOut("medium");
+});
+
+/*      End-Slides      */
+
+</script>
+
+
+
+  
+</body>
 </html>
