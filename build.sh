@@ -16,14 +16,15 @@ jekyll build
 rm -rf ../riodelamiel.github.io.master
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-git clone https://${GH_TOKEN}@github.com/riodelamiel/riodelamiel.github.io.git ../riodelamiel.github.io.master
+git clone -b master https://${GH_TOKEN}@github.com/riodelamiel/riodelamiel.github.io.git ../riodelamiel.github.io.master
 
 # copy generated HTML site to `master' branch
-cp -R _site/* ../riodelamiel.github.io.master
+rsync -v -r --delete _site ../riodelamiel.github.io.master 
+
+cd ../riodelamiel.github.io.master 
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
-cd ../riodelamiel.github.io.master
 git config user.email "andreas@wayofquality.de"
 git config user.name "Andreas Gies"
 git add -A .
