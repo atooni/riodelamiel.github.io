@@ -16,11 +16,11 @@ jekyll build
 rm -rf ../riodelamiel.github.io.master
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-git clone -b master https://${GH_TOKEN}@github.com/riodelamiel/riodelamiel.github.io.git ../riodelamiel.github.io.master
+git clone https://${GH_TOKEN}@github.com/riodelamiel/riodelamiel.github.io.git ../riodelamiel.github.io.master
 
 # copy generated HTML site to `master' branch
 cd _site
-rsync -v -r --delete * ../riodelamiel.github.io.master 
+rsync -v -r --delete --exclude=build.sh * ../riodelamiel.github.io.master 
 
 cd ../riodelamiel.github.io.master 
 
