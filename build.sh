@@ -8,7 +8,6 @@ fi
 
 # enable error reporting to the console
 set -e
-set -x
 
 # build site with jekyll, by default to `_site' folder
 jekyll build
