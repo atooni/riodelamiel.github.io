@@ -19,7 +19,8 @@ rm -rf ../riodelamiel.github.io.master
 git clone -b master https://${GH_TOKEN}@github.com/riodelamiel/riodelamiel.github.io.git ../riodelamiel.github.io.master
 
 # copy generated HTML site to `master' branch
-rsync -v -r --delete _site ../riodelamiel.github.io.master 
+cd _site
+rsync -v -r --delete * ../riodelamiel.github.io.master 
 
 cd ../riodelamiel.github.io.master 
 
