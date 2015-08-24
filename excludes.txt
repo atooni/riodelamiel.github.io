@@ -1,6 +1,0 @@
-/node_modules/
-/less/
-/build.sh
-/Gruntfile.js
-/package.json
-/.git/
