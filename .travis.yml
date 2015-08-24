@@ -15,6 +15,7 @@ install:
   - gem install jekyll
   - gem install asciidoc
   - gem install jekyll-asciidoc
+  - npm install bootstrap
 
 env:
   global:
