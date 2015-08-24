@@ -9,22 +9,24 @@ fi
 # enable error reporting to the console
 set -e
 
+DIR=`pwd`
+MASTER_DIR=$DIR/../${GH_ORG}.github.io.master
+
 # build site with jekyll, by default to `_site' folder
 jekyll build
 
 # cleanup
-rm -rf ../${GH_ORG}.github.io.master
-mkdir ../${GH_ORG}.github.io.master
+rm -rf ${MASTER_DIR}
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-git clone https://${GH_TOKEN}@github.com/${GH_ORG}/${GH_ORG}.github.io.git ../riodelamiel.github.io.master
+git clone https://${GH_TOKEN}@github.com/${GH_ORG}/${GH_ORG}.github.io.git ${MASTER_DIR}
 
 # copy generated HTML site to `master' branch
 cd _site
 
-rsync -v -r --delete --exclude=build.sh * ../${GH_ORG}.github.io.master/*
+rsync -v -r --delete --exclude=build.sh * ${MASTER_DIR}
 
-cd ../${GH_ORG}.github.io.master
+cd ${MASTER_DIR}
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
@@ -34,4 +36,3 @@ git add -A .
 git status
 git commit -a -m "Travis page build #${TRAVIS_BUILD_NUMBER}"
 git push --quiet origin master > /dev/null 2>&1 
-
