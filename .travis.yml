@@ -8,10 +8,13 @@ branches:
 rvm:
 - 2.1.7
 
+before-install:
+  - apt-get install --yes nodejs
+
 install:
-- gem install jekyll
-- gem install asciidoc
-- gem install jekyll-asciidoc
+  - gem install jekyll
+  - gem install asciidoc
+  - gem install jekyll-asciidoc
 
 env:
   global:
