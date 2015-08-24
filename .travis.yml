@@ -1,14 +1,23 @@
 language: ruby
 script: "./build.sh"
+
 branches:
   only:
   - jekyll
+
 rvm:
 - 2.1.7
+
+env:
+- GH_ORG: riodelamiel
+- GH_USER: "Andreas Gies"
+- GH_MAIL: "andreas@wayofquality.de"
+
 install:
 - gem install jekyll
 - gem install asciidoc
 - gem install jekyll-asciidoc
+
 env:
   global:
     secure: ns4khwSoVZItqbO/VGe+I66H72KiHUufers0tPpaFHQ4eKpXW/KRwcUI8pjeJiZU6/eW4zkvjeZ0PzilSLbfppn+aMR8MANsiqy2k5oCGIsQBW/tivOATqVfoQfrYKYCn61OlNrTzTF8Owf3LM2jt2BWFutjkr88/HfY6iLfSGjK39eAFOavygYjMwxzwFg4mm5qb144RAmT2m1dqIIBqSF+aCZtqm3MuZwL0UkMdTeSGjonycAgl3nrPPGwm9oU1gyZFIpo8WK70CwGIVztcnKY4QmUqlDUNIpztswTiVkGP+I8fONjyz4k/gqCP+KqizFmqkiavhgzz6qWQmnhzHTgs69nHcTEUiPbnOhqmTendfcJrAGbnMiAYdoDxGuTZk5icvxiFq2Qqb1AgwA3Aga0R986jZ5YoUyLKfpGoIMqpXAj+zmvcEPiQgyRxj82JGVl+5D7nk7tJuaFhGoOqYTszluv1E6TWvTGaJXu7xHf5WwirFCPx6PJTG5Nf1VuVEsfrLLqUwC+2zB8vXjn4n/pDvR5xU3CGBpvFRQeotXThDpcP09Ft/tly/29qis8jJH1TqvbfVFtprScSd7pYB5RbXd54SfZiR+J3wk7KRoK26Tx7Wogz4idkz7vOmtw+SFdUWlBUJITKvYvokaZyg8+A6Ndog2Jw/mPYH9L5d4=
