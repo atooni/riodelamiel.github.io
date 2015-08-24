@@ -24,7 +24,7 @@ git clone https://${GH_TOKEN}@github.com/${GH_ORG}/${GH_ORG}.github.io.git ${MAS
 # copy generated HTML site to `master' branch
 cd _site
 
-rsync -v -r --delete --exclude=build.sh * ${MASTER_DIR}
+rsync -av --del --exclude=build.sh --exclude=.git* . ${MASTER_DIR}
 
 cd ${MASTER_DIR}
 
