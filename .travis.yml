@@ -16,6 +16,7 @@ install:
   - gem install asciidoc
   - gem install jekyll-asciidoc
   - npm install bootstrap
+  - npm install grunt-cli
 
 env:
   global:

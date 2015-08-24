@@ -12,6 +12,9 @@ set -e
 DIR=`pwd`
 MASTER_DIR=$DIR/../${GH_ORG}.github.io.master
 
+# generate bootstrap stylesheets from less
+grunt
+
 # build site with jekyll, by default to `_site' folder
 jekyll build
 
@@ -26,7 +29,7 @@ cd _site
 
 rm -Rf node_modules
 
-rsync -av --del --exclude=build.sh --exclude=.git* . ${MASTER_DIR}
+rsync -av --del --exclude-from=excludes.txt . ${MASTER_DIR}
 
 cd ${MASTER_DIR}
 
