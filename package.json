@@ -1,8 +1,9 @@
 {
   "name": "riodelamiel.github.io",
   "version": "0.0.1",
-  "devDependencies": {
+  "dependencies": {
     "grunt": "~0.4.5",
+    "bootstrap": "~3.3.5",
     "grunt-contrib-less": "~1.0.1"
   }
 }

@@ -13,6 +13,7 @@ DIR=`pwd`
 MASTER_DIR=$DIR/../${GH_ORG}.github.io.master
 
 # generate bootstrap stylesheets from less
+npm install
 grunt
 
 # build site with jekyll, by default to `_site' folder
