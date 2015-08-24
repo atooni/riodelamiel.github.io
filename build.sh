@@ -24,13 +24,12 @@ rsync -v -r --delete --exclude=build.sh * ../${GH_ORG}.github.io.master
 
 cd ../${GH_ORG}.github.io.master
 
-git status 
-
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
 git config user.email "${GH_MAIL}"
 git config user.name "${GH_USER}"
 git add -A .
+git status
 git commit -a -m "Travis page build #${TRAVIS_BUILD_NUMBER}"
 git push --quiet origin master > /dev/null 2>&1 
 

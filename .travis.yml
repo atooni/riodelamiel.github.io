@@ -9,9 +9,10 @@ rvm:
 - 2.1.7
 
 env:
-- GH_ORG: riodelamiel
-- GH_USER: "Andreas Gies"
-- GH_MAIL: "andreas@wayofquality.de"
+  global:
+  - GH_ORG: "riodelamiel"
+  - GH_USER: "Andreas Gies"
+  - GH_MAIL: "andreas@wayofquality.de"
 
 install:
 - gem install jekyll
