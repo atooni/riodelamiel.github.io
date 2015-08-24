@@ -1,0 +1,8 @@
+language: ruby
+script: "./build.sh"
+branches: 
+  only:
+  - jekyll
+rvm:
+- 2.1.7
+
