@@ -23,6 +23,8 @@ rsync -v -r --delete _site ../riodelamiel.github.io.master
 
 cd ../riodelamiel.github.io.master 
 
+git status 
+
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
 git config user.email "andreas@wayofquality.de"
