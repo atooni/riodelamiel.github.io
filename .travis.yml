@@ -7,4 +7,6 @@ rvm:
 - 2.1.7
 install:
 - gem install jekyll 
+- gem install asciidoc 
+- gem install jekyll-asciidoc
 

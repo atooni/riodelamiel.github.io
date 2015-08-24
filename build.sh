@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # only proceed script when started not by pull request (PR)
 if [ $TRAVIS_PULL_REQUEST == "true" ]; then
