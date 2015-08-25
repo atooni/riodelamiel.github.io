@@ -1,5 +1,41 @@
-<footer role="contentinfo">
-  <div class="row text-center">
-    <p><small>Copyright &copy; WoQ - Way of Quality GmbH 2015</small></p>
-  </div>
-</footer>
+  <footer id="footer"  class="blog-background overlay text-center align-middle animated from-top" style="background-image: url({{ site.url }}/images/{{ site.default_bg }})" >
+
+    <div class="inner">
+      <div class="container">
+
+        <ul class="social-icons">
+          {% if site.owner.twitter %}<li>
+          <a href="http://twitter.com/{{ site.owner.twitter }}" data-toggle="tooltip" title="{{ site.owner.name}} on Twitter" target="_blank">
+            <i class="icon-twitter"></i>
+          </a>
+        </li>{% endif %}
+          {% if site.owner.facebook %}<li>
+          <a href="http://facebook.com/{{ site.owner.facebook }}" data-toggle="tooltip" title="{{ site.owner.name}} on Facebook" target="_blank">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </li>{% endif %}
+          {% if site.owner.google_plus %}<li>
+          <a href="{{ site.owner.google_plus }}" data-toggle="tooltip" title="{{ site.owner.name}} on Google+" target="_blank">
+            <i class="icon-google-plus"></i>
+          </a>
+        </li>{% endif %}
+          {% if site.owner.instagram %}<li>
+          <a href="http://instagram.com/{{ site.owner.instagram }}" data-toggle="tooltip" title="{{ site.owner.name}} on Instagram" target="_blank">
+            <i class="icon-instagram"></i>
+          </a>
+        </li>{% endif %}
+          {% if site.owner.flickr %}<li>
+          <a href="http://www.flickr.com/photos/{{ site.owner.flickr }}" data-toggle="tooltip" title="{{ site.owner.name}} on Flickr" target="_blank">
+            <i class="icon-flickr"></i>
+          </a>
+        </li>{% endif %}
+        </ul>
+        <div>
+          <a href="about.html">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.
+        </div>
+      </div>
+    </div>
+    <div class="row text-center">
+      <p><small>Copyright &copy; WoQ - Way of Quality GmbH 2015</small></p>
+    </div>
+  </footer>

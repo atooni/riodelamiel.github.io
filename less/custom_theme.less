@@ -1,3 +1,6 @@
+@font-family: Helvetica;
+@text-color: blue;
+
 .container .jumbotron {
   border-radius: 0;
 }
@@ -5,3 +8,64 @@
 .label {
   border-radius: 0;
 }
+
+body {
+  font-family: @font-family;
+  color: @text-color;
+}
+
+footer {
+  background: @footer-default-bg;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+// Social icons formatting
+.social-icons {
+  margin: 0;
+  padding: 0 0 48px;
+  list-style-type: none;
+}
+
+.social-icons li {
+  display: inline-block;
+  padding: 0 12px;
+}
+
+.social-icons a {
+  display: block;
+  font-size: 24px;
+  height: 72px;
+  width: 72px;
+  line-height: 72px;
+  border-radius: 50%;
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+  -o-transition: all .2s;
+  -ms-transition: all .2s;
+  transition: all .2s;
+}
+
+.social-icons i {
+  vertical-align: middle;
+}
+.social-mini {
+  margin: 0;
+  padding: 0 0 24px;
+  list-style-type: none;
+}
+.social-mini li {
+  display: inline-block;
+  font-size: 16px;
+  padding: 0 12px;
+}
+
+.social-icons a {
+  color: white;
+  background-color: @navbar-default-bg;
+}
+
+.social-icons a:hover {
+  background-color: @navbar-default-link-active-bg;
+}
+
