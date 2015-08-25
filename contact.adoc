@@ -1,0 +1,42 @@
+---
+key: contact
+layout: pageminimal
+---
+=== Sprecht uns an
+Für Fragen rund um euren Aufenthalt und eure Seminare in Rio de la Miel wir Ihnen gerne per Telefon oder eMail zur Verfügung.
+
+Wir helfen nach Kräften bei der Organisation der Anreise oder mit informationen über zusätzliche Angebote in der näheren
+Umgebung. Zögert nicht, uns zu kontaktieren - wir freuen uns auf euch.
+
+=== Veranstalter
+WoQ - Way of Quality GmbH
+Stahlzwingerweg 6
+93047 Regensburg
+info@wayofquality.de
+
+=== Anschrift des Seminarhauses
+Rio de la Miel, xxx, Province of Malaga,  Spain.
+
+=== Postaddresse
+Apartado de Correos 504, E18690 Almuñecar, Spain.
+
+=== E-mail:
+info@riodelamiel.eu
+
+=== Telefon
+
+[cols="3"]
+|===
+
+|*Deutschland*
+|
+|+49 177 343 2484
+
+|*Spanien*
+|
+|+34 644 888 098
+
+|*Fax*
+|
+|+49 1805 006534 2114
+|===

@@ -2,8 +2,6 @@
 key: index
 layout: pageminimal
 ---
-= Rio de la Miel
+== Rio de la Miel
 
-== Die Seite befindet sich im Aufbau
-
-== Under construction
+Rio de la Miel ist ...
