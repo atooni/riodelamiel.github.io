@@ -1,7 +1,7 @@
 ---
 layout: pageminimal
 ---
-= Rio de la Miel
+= {{ site.owner.name }}
 
 == Die Seite befindet sich im Aufbau
 
