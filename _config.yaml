@@ -1,6 +1,10 @@
 owner:
   name: Rio de la Miel
   facebook: riodelamiel
+  twitter: foo
+  google_plus: foo
+  instagram: foo
+  flickr: foo
 
 gems:
   - jekyll-asciidoc

@@ -6,7 +6,7 @@
         <ul class="social-icons">
           {% if site.owner.twitter %}<li>
           <a href="http://twitter.com/{{ site.owner.twitter }}" data-toggle="tooltip" title="{{ site.owner.name}} on Twitter" target="_blank">
-            <i class="icon-twitter"></i>
+            <i class="fa fa-twitter"></i>
           </a>
         </li>{% endif %}
           {% if site.owner.facebook %}<li>
@@ -16,26 +16,23 @@
         </li>{% endif %}
           {% if site.owner.google_plus %}<li>
           <a href="{{ site.owner.google_plus }}" data-toggle="tooltip" title="{{ site.owner.name}} on Google+" target="_blank">
-            <i class="icon-google-plus"></i>
+            <i class="fa fa-google-plus"></i>
           </a>
         </li>{% endif %}
           {% if site.owner.instagram %}<li>
           <a href="http://instagram.com/{{ site.owner.instagram }}" data-toggle="tooltip" title="{{ site.owner.name}} on Instagram" target="_blank">
-            <i class="icon-instagram"></i>
+            <i class="fa fa-instagram"></i>
           </a>
         </li>{% endif %}
           {% if site.owner.flickr %}<li>
           <a href="http://www.flickr.com/photos/{{ site.owner.flickr }}" data-toggle="tooltip" title="{{ site.owner.name}} on Flickr" target="_blank">
-            <i class="icon-flickr"></i>
+            <i class="fa fa-flickr"></i>
           </a>
         </li>{% endif %}
         </ul>
         <div>
-          <a href="about.html">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.
+          &copy; {{ site.time | date: '%Y' }} &bull; {{ site.owner.name }} - <a href="https://github.com/riodelamiel/riodelamiel.github.io/tree/jekyll">Theme</a> is free to use under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>
         </div>
       </div>
-    </div>
-    <div class="row text-center">
-      <p><small>Copyright &copy; WoQ - Way of Quality GmbH 2015</small></p>
     </div>
   </footer>
