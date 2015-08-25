@@ -1,4 +1,5 @@
 ---
+key: index
 layout: pageminimal
 ---
 = Rio de la Miel

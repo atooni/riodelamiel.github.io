@@ -8,14 +8,19 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="index.html">
-          <img src="images/logo.png" alt="Home" width="120"/>
+          <img src="images/logo.png" alt="Home" width="150"/>
         </a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="index.html"><span class="glyphicon glyphicon-home"></span>Home</a></li>
-          <li><a href="#">Link</a></li>
-          <li><a href="#">Link</a></li>
+          {% for link in site.links %}
+          <li>
+          {% if forloop.first %}
+          <a href="{{link.link}}"><span class="glyphicon glyphicon-home"></span>{{link.text}}</a>
+          {% else %}
+          <a href="{{ link.link }}">{{link.text}}</a>
+          {% endif %}
+          {% endfor %}
         </ul>
       </div>
     </div>
@@ -24,22 +29,26 @@
   <div id="carousel-pictures" class="carousel slide" data-ride="carousel" style="max-height: 670px">
     <!-- Indicators -->
     <ol class="carousel-indicators">
+      {% for banner in site.banners %}
+      {% if forloop.first %}
       <li data-target="#carousel-pictures" data-slide-to="0" class="active"></li>
+      {% else %}
       <li data-target="#carousel-pictures" data-slide-to="1"></li>
-      <li data-target="#carousel-pictures" data-slide-to="2"></li>
+      {% endif %}
+      {% endfor %}
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox"  >
+      {% for banner in site.banners %}
+      {% if forloop.first %}
       <div class="item active">
-        <img src="images/Banner1.jpg" alt="banner1" >
-      </div>
+      {% else %}
       <div class="item">
-        <img src="images/Banner2.jpg" alt="banner2" >
+      {% endif %}
+        <img src="images/{{ banner.img}}" alt="{{ banner.alt }}" >
       </div>
-      <div class="item">
-        <img src="images/Banner3.jpg" alt="banner3" >
-      </div>
+      {% endfor %}
     </div>
 
     <!-- Controls -->

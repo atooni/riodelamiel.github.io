@@ -1,10 +1,6 @@
 owner:
   name: Rio de la Miel
   facebook: riodelamiel
-  twitter: foo
-  google_plus: foo
-  instagram: foo
-  flickr: foo
 
 gems:
   - jekyll-asciidoc
@@ -12,3 +8,22 @@ gems:
 versions:
   jquery : "1.11.3"
   bootstrap: "3.3.5"
+
+banners:
+  - img: "Banner1.jpg"
+    alt: "Banner1"
+  - img: "Banner2.jpg"
+    alt: "Banner2"
+  - img: "Banner3.jpg"
+    alt: "Banner3"
+
+links:
+  - link: "/index.html"
+    text: "Home"
+    key:  "index"
+  - link: "/about.html"
+    text: "Über uns"
+    key:  "about"
+  - link: "/impressum.html"
+    text: "Impressum"
+    key:  "impressum"

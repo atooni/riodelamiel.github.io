@@ -1,2 +1,12 @@
 <script src="https://code.jquery.com/jquery-{{ site.versions.jquery }}.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/{{ site.versions.bootstrap }}/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+
+  // highlight the right button in the menu
+  $(function() {
+    {% for link in site.links %}
+    $("#{{link.key}} a:contains('{{link.text}}')").parent().addClass('active');
+    {% endfor %}
+  });
+</script>

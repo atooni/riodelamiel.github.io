@@ -1,4 +1,5 @@
 ---
+key: about
 layout: pageminimal
 ---
 == Karin Gies
