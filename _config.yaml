@@ -16,6 +16,8 @@ banners:
     alt: "Banner2"
   - img: "Banner3.jpg"
     alt: "Banner3"
+  - img: "Banner4.jpg"
+    alt: "Banner4"
 
 links:
   - link: "/index.html"
