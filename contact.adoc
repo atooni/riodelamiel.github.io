@@ -5,13 +5,13 @@ layout: pageminimal
 === Sprecht uns an
 Für Fragen rund um euren Aufenthalt und eure Seminare in Rio de la Miel wir Ihnen gerne per Telefon oder eMail zur Verfügung.
 
-Wir helfen nach Kräften bei der Organisation der Anreise oder mit informationen über zusätzliche Angebote in der näheren
-Umgebung. Zögert nicht, uns zu kontaktieren - wir freuen uns auf euch.
+Wir helfen nach Kräften bei der Organisation der Anreise oder mit informationen über zusätzliche Angebote in der näheren Umgebung.
+Zögert nicht, uns zu kontaktieren - wir freuen uns auf euch.
 
 === Veranstalter
-WoQ - Way of Quality GmbH
-Stahlzwingerweg 6
-93047 Regensburg
+WoQ - Way of Quality GmbH +
+Stahlzwingerweg 6 +
+93047 Regensburg +
 info@wayofquality.de
 
 === Anschrift des Seminarhauses

@@ -33,3 +33,7 @@ links:
   - link: "/impressum.html"
     text: "Impressum"
     key:  "impressum"
+
+asciidoctor:
+  attributes:
+    - hardbreaks!
