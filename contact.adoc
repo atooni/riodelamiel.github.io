@@ -17,6 +17,10 @@ info@wayofquality.de
 === Anschrift des Seminarhauses
 Rio de la Miel, xxx, Province of Malaga,  Spain.
 
+++++
+<div id="map"></div>
+++++
+
 === Postaddresse
 Apartado de Correos 504, E18690 Almuñecar, Spain.
 

@@ -27,13 +27,11 @@ links:
   - link: "/contact.html"
     text: "Kontakt"
     key:  "contact"
-  - link: "/agb.html"
-    text: "AGB"
-    key:  "agb"
   - link: "/impressum.html"
     text: "Impressum"
     key:  "impressum"
 
+# Enforce the standard ASCIIDOC behavior for Jekyll.
 asciidoctor:
   attributes:
     - hardbreaks!
