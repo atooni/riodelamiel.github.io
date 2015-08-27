@@ -1,5 +1,6 @@
 ---
 key: index
+share: true
 layout: pageminimal
 ---
 == Rio de la Miel

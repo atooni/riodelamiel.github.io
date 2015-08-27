@@ -12,6 +12,11 @@
         {{ content }}
       </div>
     </div>
+    {% if page.share %}
+    <div class="row">
+    {% include share.html %}
+    </div>
+    {% endif %}
   </div>
 </div>
 {% include footer.html %}

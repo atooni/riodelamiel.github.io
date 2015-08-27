@@ -1,3 +1,5 @@
+permalink: /:year/:month/:day/:title.html
+
 owner:
   name: Rio de la Miel
   facebook: riodelamiel
@@ -23,6 +25,9 @@ links:
   - link: "/index.html"
     text: "Home"
     key:  "index"
+  - link: "/blog.html"
+    text: "Blog"
+    key:  "blog"
   - link: "/about.html"
     text: "Über uns"
     key:  "about"
@@ -37,3 +42,4 @@ links:
 asciidoctor:
   attributes:
     - hardbreaks!
+

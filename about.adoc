@@ -1,8 +1,18 @@
 ---
 key: about
 layout: pageminimal
+share: true
 ---
+
+++++
+<div class="row">
+++++
+[role="col-md-6"]
 == Karin Gies
+
+image::/images/Karin.jpg[height=400, align=center]
+
+---
 
 Karin Gies praktiziert seit vielen Jahren Yoga und hat 2005 eine Ausbildung zur Yoga Lehrerin in der Tradition von Swami Sivananda absolviert. Seit dem unterrichtet sie mit grossem Einfühlungsvermögen Yoga in eigenen Yogastudios und weltweit tätigen Yogaorganisationen.
 
@@ -14,7 +24,12 @@ Karin Gies unterrichtet mit Leidenschaft und Hingabe. Sie bestärkt Ihre Schüle
 
 2014 hat sie beschlossen, sich nunmehr auf ganzheitliches Yoga zu konzentrieren und gemeinsam mit ihrem Mann Andreas als Partnerin Rio de la Miel Yogaretreats zu organisieren und durchzuführen.
 
+[role="col-md-6"]
 == Andreas Gies
+
+image::/images/Andreas.jpg[height=400, align=center]
+
+---
 
 Andreas Gies hat sich von der Yogabegeisterung seiner Frau anstecken lassen und praktiziert ebenfalls seit mehreren Jahren. 2006 hat er seine Yogalehrerausbildung in der Tradition von Swami Sivananda absolviert und unterrichtet seither, wann immer es seine Zeit erlaubt.
 
@@ -25,3 +40,6 @@ In dieser Tätigkeit als IT-Berater hat er immer wieder bemerkt, wie einfache Yo
 Aus diesen Erfahrungen hat er ein Kurskonzept entwickelt, welches eine tägliche Yogapraxis, eine ausgewogene Ernährung und das Erlernen neuer Technologien miteinander in Einklang bringt.
 
 Die kombinierten IT/Yoga Kurse werden ab Sommer 2016 Bestandteil des Kursprogrammes in Rio de la Miel sein.
+++++
+</div>
+++++

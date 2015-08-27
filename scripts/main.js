@@ -17,5 +17,12 @@ $( document ).ready(
         }
       });
     });
+
+    $("#fb-photos").each( function(idx, elem) {
+      console.log("Foto Album found");
+      $("#" + elem.id ).facebookAlbumPhotos({
+        'albumURL': 'https://www.facebook.com/media/set/?set=a.929135233792435.1073741829.929094460463179'
+      });
+    });
   }
 );
