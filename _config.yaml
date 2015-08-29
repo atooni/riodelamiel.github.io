@@ -8,7 +8,7 @@ owner:
     user: yogariodelamiel
     hashtag: YogaRioDeLaMiel
 
-google-analytics: "UA-51632968-2"
+google_analytics: "UA-51632968-2"
 
 gems:
   - jekyll-asciidoc
