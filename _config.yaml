@@ -4,7 +4,9 @@ url: http://www.riodelamiel.eu
 owner:
   name: Rio de la Miel
   facebook: riodelamiel
-  twitter: yogariodelamiel
+  twitter:
+    user: yogariodelamiel
+    hashtag: YogaRioDeLaMiel
 
 gems:
   - jekyll-asciidoc
