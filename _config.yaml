@@ -1,8 +1,10 @@
 permalink: /:year/:month/:day/:title.html
+url: http://www.riodelamiel.eu
 
 owner:
   name: Rio de la Miel
   facebook: riodelamiel
+  twitter: yogariodelamiel
 
 gems:
   - jekyll-asciidoc

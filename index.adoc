@@ -2,6 +2,7 @@
 key: index
 share: true
 layout: pageminimal
+title: Rio de la Miel
 ---
 == Rio de la Miel
 

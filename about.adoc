@@ -2,6 +2,7 @@
 key: about
 layout: pageminimal
 share: true
+title: Über uns
 ---
 
 ++++
