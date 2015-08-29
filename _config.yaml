@@ -8,6 +8,8 @@ owner:
     user: yogariodelamiel
     hashtag: YogaRioDeLaMiel
 
+google-analytics: "UA-51632968-2"
+
 gems:
   - jekyll-asciidoc
 
