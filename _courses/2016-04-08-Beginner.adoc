@@ -1,6 +1,6 @@
 ---
-key: med_201503
-layout: pageminimal
+key: beg_201504
+layout: course
 title: Yoga für Anfänger
 start: 08.04.2015
 end: 15.04.2015

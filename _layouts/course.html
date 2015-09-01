@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include head.html %}
+</head>
+<body id="{{ page.key }}">
+{% include header.html %}
+{% assign trainer = site.data.trainer[page.trainer] %}
+<div id="main" class="content" role="main" itemprop="mainContentOfPage">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 page-body">
+        {{content}}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-10 page-body">
+        <a href="/courses.html">Kursübersicht</a>
+      </div>
+    </div>
+    {% if page.share %}
+    <div class="row">
+      <hr />
+      {% include share.html %}
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% include footer.html %}
+{% include scripts.html %}
+</body>
+</html>

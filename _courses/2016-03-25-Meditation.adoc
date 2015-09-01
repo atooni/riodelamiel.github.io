@@ -1,6 +1,6 @@
 ---
 key: med_201503
-layout: pageminimal
+layout: course
 title: Einführung in die Meditation
 start: 25.03.2015
 end: 01.04.2015

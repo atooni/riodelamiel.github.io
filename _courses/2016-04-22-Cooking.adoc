@@ -1,0 +1,12 @@
+---
+key: veg_201504
+layout: course
+title: Veganes kochen
+start: 22.04.2015
+end: 29.04.2015
+trainer:
+  - karin
+  - andreas
+image: vegan
+---
+Super duper veganer kochkurs
