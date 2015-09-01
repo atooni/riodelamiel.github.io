@@ -11,9 +11,8 @@ title: Über uns
 [role="col-md-6"]
 == Karin Gies
 
-image::/images/Karin.jpg[height=400, align=center]
-
----
+[role="ads_left"]
+image::/images/Karin.jpg[height=250]
 
 Karin Gies praktiziert seit vielen Jahren Yoga und hat 2005 eine Ausbildung zur Yoga Lehrerin in der Tradition von Swami Sivananda absolviert. Seit dem unterrichtet sie mit grossem Einfühlungsvermögen Yoga in eigenen Yogastudios und weltweit tätigen Yogaorganisationen.
 
@@ -28,9 +27,8 @@ Karin Gies unterrichtet mit Leidenschaft und Hingabe. Sie bestärkt Ihre Schüle
 [role="col-md-6"]
 == Andreas Gies
 
-image::/images/Andreas.jpg[height=400, align=center]
-
----
+[role="ads_left"]
+image::/images/Andreas.jpg[height=250]
 
 Andreas Gies hat sich von der Yogabegeisterung seiner Frau anstecken lassen und praktiziert ebenfalls seit mehreren Jahren. 2006 hat er seine Yogalehrerausbildung in der Tradition von Swami Sivananda absolviert und unterrichtet seither, wann immer es seine Zeit erlaubt.
 
