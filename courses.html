@@ -1,0 +1,15 @@
+---
+key: courses
+layout: pageminimal
+---
+<h2>Aktuelle Kurse</h2>
+{% for course in site.courses %}
+<h3><a href="{{course.url}}">{{ course.title }}</a></h3>
+<p>{{course.start}} - {{ course.end}}</p>
+<ul>
+{% for t in course.trainer %}
+{% assign trainer = site.data.trainer[t] %}
+<li><a href="/trainer/{{t}}.html">{{trainer.name}}</a></li>
+{% endfor %}
+</ul>
+{% endfor %}

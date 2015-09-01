@@ -32,6 +32,9 @@ links:
   - link: "/blog.html"
     text: "Blog"
     key:  "blog"
+  - link: "/courses.html"
+    text: "Kurse"
+    key:  "courses"
   - link: "/about.html"
     text: "Über uns"
     key:  "about"
@@ -41,6 +44,11 @@ links:
   - link: "/impressum.html"
     text: "Impressum"
     key:  "impressum"
+
+collections:
+  courses:
+    output: true
+    permalink: /courses/:path.html
 
 # Enforce the standard ASCIIDOC behavior for Jekyll.
 asciidoctor:
