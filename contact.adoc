@@ -21,8 +21,20 @@ Rio de la Miel, xxx, Province of Malaga,  Spain.
 <div id="map"></div>
 ++++
 
+=== So findet ihr uns mit dem Auto
+
+++++
+<div id="route"></div>
+++++
+
 === Postaddresse
 Apartado de Correos 504, E18690 Almuñecar, Spain.
+
+=== Busse von und nach Nerja
+
+Hier ist die offizielle Seite mit den Busverbindungen von und nach Nerja:
+
+http://www.nerjatoday.com/nerja/bus-timetables/
 
 === E-mail:
 info@riodelamiel.eu
