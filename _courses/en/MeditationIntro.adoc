@@ -1,10 +1,5 @@
 ---
-title: Introduction into Meditation
-start:
-  - 25.03.2015
-trainer:
-  - karin
-image: meditation.jpg
+course: med_001
 ---
 
 == This is the english version

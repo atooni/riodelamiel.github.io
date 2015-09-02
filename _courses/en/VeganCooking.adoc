@@ -1,11 +1,5 @@
 ---
-title: Vegan cooking
-start:
-  - 22.04.2015
-trainer:
-  - karin
-  - andreas
-image: cooking.jpg
+course: cooking_001
 ---
 
 == This is the english version

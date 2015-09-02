@@ -5,3 +5,16 @@ current_courses:
 course_overview:
   en: "All Courses"
   de: "Alle Kurse"
+
+course_nodates:
+  en: "Not currently scheduled"
+  de: "Keine aktuellen Termine"
+
+course_days:
+  en: "days"
+  de: "Tage"
+
+read_more:
+  en: "Read more ..."
+  de: "Weiter lesen ..."
+

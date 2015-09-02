@@ -1,11 +1,38 @@
 {% assign courses = site.courses | where:"lang", page.lang %}
 {% for course in courses %}
-<h3><a href="{{course.url}}">{{ course.title }}</a></h3>
-<p>{{course.start}} - {{ course.end}}</p>
-<ul>
-  {% for t in course.trainer %}
-  {% assign trainer = site.data.trainer[t] %}
-  <li><a href="/trainer/{{page.lang}}/{{t}}.html">{{trainer.name}}</a></li>
-  {% endfor %}
-</ul>
+  {% assign meta = site.data.courses[course.course] %}
+  {% assign dates = meta.start | sort %}
+  {% capture today %}{{ 'now' | date: '%Y-%0m-%d' }}{% endcapture %}
+  <div class="col-md-4 col-md-offset-1">
+    <div class="row">
+      <h3>{{ meta.title[page.lang] }}</h3>
+      <h4>
+        {% for t in meta.trainer %}
+        {% unless forloop.first %}-{% endunless %}
+        {% assign trainer = site.data.trainer[t] %}
+        <a href="/trainer/{{page.lang}}/{{t}}.html">{{trainer.name}}</a>
+        {% endfor %}
+      </h4>
+      <ul>
+      {% assign count = 0 %}
+      {% for date_s in dates %}
+      {% capture date %}{{ date_s | date: '%Y-%0m-%d'}}{% endcapture %}
+      {% if date >= today %}
+      <li>{{date | date: '%0d.%0m.%Y'}} : {{ meta.duration }} {{site.data.translation['course_days'][page.lang]}}</li>
+      {% capture count %}{{count | plus: 1 }}{% endcapture %}
+      {% endif %}
+      {% endfor %}
+      {% if count == 0 %}
+      <li>{{ site.data.translation['course_nodates'][page.lang]}}</li>
+      {% endif %}
+      </ul>
+      {% if meta.image %}
+      <img src="/images/courses/{{meta.image}}" class="ads_left" width="150"/>
+      {% endif %}
+      {{ course.content | strip_html | truncatewords: 50 }}
+      <p>
+        <a href="{{ course.url }}" class="btn btn-info ads_right" role="button">{{ site.data.translation['read_more'][page.lang]}}</a>
+      </p>
+    </div>
+  </div>
 {% endfor %}

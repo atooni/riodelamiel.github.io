@@ -1,11 +1,5 @@
 ---
-title: Yoga for Beginners
-start:
-  - 08.04.2015
-trainer:
-  - karin
-  - andreas
-image: beginner.jpg
+course: yoga_001
 ---
 
 == This is the english version

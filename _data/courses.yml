@@ -1,0 +1,37 @@
+yoga_001:
+  start:
+    - 25.03.2015
+    - 25.03.2016
+  trainer:
+    - karin
+  duration: 7
+  image: beginner.jpg
+  title:
+    en: "Yoga for Beginners"
+    de: "Einführung ins Yoga"
+
+med_001:
+  start:
+    - 25.04.2016
+  trainer:
+    - karin
+    - andreas
+  duration: 7
+  image: meditation.jpg
+  title:
+    en: "Meditation Primer"
+    de: "Einführung in die Meditation"
+
+cooking_001:
+  start:
+    - 25.03.2015
+    - 01.04.2016
+    - 01.05.2016
+  trainer:
+    - karin
+  duration: 7
+  image: cooking.jpg
+  title:
+    en: "Vegan cooking"
+    de: "Vegan kochen"
+

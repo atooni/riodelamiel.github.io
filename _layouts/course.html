@@ -5,14 +5,15 @@
 </head>
 <body id="{{ page.key }}">
 {% include header.html %}
-{% assign trainer = site.data.trainer[page.trainer] %}
+{% assign meta = site.data.courses[page.course] %}
+{% assign trainer = site.data.trainer[meta.trainer] %}
 <div id="main" class="content" role="main" itemprop="mainContentOfPage">
   <div class="container">
     <div class="row">
       <div class="col-md-10 page-body">
         <h2>{{page.title}}</h2>
-        {% if page.image %}
-        <img src="/images/courses/{{page.image}}" class="ads_left" />
+        {% if meta.image %}
+        <img src="/images/courses/{{meta.image}}" class="ads_left" />
         {% endif %}
         {{content}}
       </div>
