@@ -1,10 +1,5 @@
 ---
-layout: pageminimal
-title:  "Helfen in Rio de la Miel"
 date:   2015-08-27
-categories: [Karmayoga]
-tags: [Karmayoga]
-share: true
 ---
 
 == In eigener Sache

@@ -1,6 +1,7 @@
 ---
-permalink: /
 ---
+== English version
+
 == Rio de la Miel
 
 Nun sind es nur noch wenige Wochen, bis wir unser Haus in Salobreña verlassen und in _Rio de la Miel_ einziehen. Die ersten

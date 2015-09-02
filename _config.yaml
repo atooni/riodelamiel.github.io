@@ -49,31 +49,55 @@ links:
 collections:
   courses:
     output: true
-    permalink: /courses/:path/
+    permalink: /courses/:path.html
   pages:
     output: true
-    permalink: /pages/:path/
+    permalink: /pages/:path.html
 
 defaults:
   -
     scope:
+      path: ""
+    values:
+      lang: en
+      layout: default
+  -
+    scope:
       path: _posts/de
     values:
+      share: true
       lang: de
   -
     scope:
       path: _posts/en
     values:
+      share: true
       lang: en
   -
     scope:
       path: _pages/de
     values:
       lang: de
+      share: true
   -
     scope:
       path: _pages/en
     values:
+      share: true
+      lang: en
+  -
+    scope:
+      path: _courses/de
+    values:
+      layout: course
+      lang: de
+      share: true
+  -
+    scope:
+      path: _courses/en
+    values:
+      layout: course
+      share: true
       lang: en
 
 # Enforce the standard ASCIIDOC behavior for Jekyll.
