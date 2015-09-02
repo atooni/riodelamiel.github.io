@@ -1,0 +1,36 @@
+---
+layout: course
+title: Einführung in die Meditation
+start:
+  - 25.03.2015
+trainer:
+  - karin
+image: meditation.jpg
+lang: en
+---
+
+== This is the english version
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at congue tortor, maximus tincidunt tortor. Sed in eleifend felis, sed dignissim nulla. Cras dapibus ex non turpis luctus condimentum. Proin iaculis nisi quis
+lacus ullamcorper molestie. Phasellus imperdiet metus ligula, vitae gravida elit finibus congue. Aliquam vestibulum tellus sit amet nunc ornare, et blandit purus iaculis. Cras eleifend nec metus sit amet tristique.
+Integer aliquet, orci sed facilisis scelerisque, purus nulla dignissim massa, id vulputate dolor ipsum vel elit. Maecenas eget augue ut turpis venenatis porttitor. Ut pretium tortor felis, vitae consequat nunc gravida
+vel. Sed condimentum ante sed urna tincidunt blandit. Curabitur eleifend malesuada ligula eget tristique. Ut est erat, feugiat in ultricies et, ultricies in ipsum. Nullam scelerisque laoreet orci. Suspendisse efficitur
+felis velit, et malesuada lectus elementum pharetra.
+
+Sed dignissim ultrices lorem, vitae tincidunt sem hendrerit ac. Duis justo neque, aliquet ut arcu at, interdum pharetra ipsum. Mauris libero lacus, tincidunt ullamcorper commodo nec, porttitor auctor elit. Sed sed
+aliquet tellus. Mauris suscipit libero quis elementum malesuada. Morbi finibus quam sed ultrices scelerisque. Sed ac ultrices orci. Fusce rutrum ultrices libero, in bibendum odio pharetra vitae. Praesent at felis non
+tellus molestie iaculis ac sit amet tellus. Aliquam erat volutpat. Curabitur sed enim blandit, tempor purus ac, vulputate ipsum.
+
+Proin tincidunt sodales massa, vel porttitor magna euismod nec. Etiam vestibulum erat nec magna faucibus, eu hendrerit arcu cursus. Vivamus aliquam est sed lectus varius scelerisque. Aliquam erat volutpat. Donec pharetra
+tincidunt vulputate. Quisque lobortis tellus vitae tincidunt malesuada. Curabitur congue dapibus vehicula. Pellentesque facilisis facilisis neque ut dignissim. Nulla facilisi. Quisque varius, ante non feugiat gravida,
+tellus dui dapibus nisl, id feugiat turpis nunc a ante.
+
+Sed elementum ullamcorper leo nec euismod. Morbi ut turpis ullamcorper, fermentum libero vel, condimentum nisi. Morbi ut purus non massa vehicula gravida quis vitae nulla. Cras gravida fermentum justo eget convallis.
+Aenean eget libero lobortis, vehicula urna ac, fermentum ante. Praesent justo erat, interdum eget laoreet egestas, sodales et felis. Curabitur vel nisi sagittis, bibendum erat id, finibus nisl. Donec porta, metus ut
+bibendum vehicula, ante nibh tristique nisi, a bibendum nibh velit sed orci. Ut gravida, nisl ac mollis posuere, mauris dui rutrum tellus, id facilisis magna arcu et dui. Quisque sagittis, nunc ut pretium ultricies,
+magna justo pellentesque nunc, at suscipit sapien ipsum et nulla.
+
+Quisque egestas dui arcu, et viverra sapien euismod sit amet. Suspendisse potenti. Quisque a faucibus augue, eget rutrum sapien. Nunc vitae orci vel mi luctus suscipit. Donec quis mollis urna. Etiam pharetra, turpis
+sagittis hendrerit imperdiet, purus erat efficitur metus, dignissim dapibus purus dolor sit amet diam. Nam vitae velit eu quam consequat fringilla vel non libero. Curabitur congue neque ante, at viverra purus porttitor
+eget. Sed hendrerit mi vitae vestibulum placerat. Curabitur vehicula pretium dolor, sit amet porta quam dictum nec. Aliquam ut neque posuere est condimentum molestie eu vel neque. Integer ac ornare lacus. Vestibulum sit
+amet dapibus nisi.
