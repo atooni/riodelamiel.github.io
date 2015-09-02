@@ -1,0 +1,11 @@
+{% assign courses = site.courses | where:"lang", page.lang %}
+{% for course in courses %}
+<h3><a href="{{course.url}}">{{ course.title }}</a></h3>
+<p>{{course.start}} - {{ course.end}}</p>
+<ul>
+  {% for t in course.trainer %}
+  {% assign trainer = site.data.trainer[t] %}
+  <li><a href="/trainer/{{page.lang}}/{{t}}.html">{{trainer.name}}</a></li>
+  {% endfor %}
+</ul>
+{% endfor %}

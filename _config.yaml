@@ -18,34 +18,6 @@ versions:
   jquery : "1.11.3"
   bootstrap: "3.3.5"
 
-banners:
-  - img: "Banner1.jpg"
-    alt: "Banner1"
-  - img: "Banner2.jpg"
-    alt: "Banner2"
-  - img: "Banner3.jpg"
-    alt: "Banner3"
-
-links:
-  - link: "/index.html"
-    text: "Home"
-    key:  "index"
-  - link: "/blog.html"
-    text: "Blog"
-    key:  "blog"
-  - link: "/courses.html"
-    text: "Kurse"
-    key:  "courses"
-  - link: "/about.html"
-    text: "Über uns"
-    key:  "about"
-  - link: "/contact.html"
-    text: "Kontakt"
-    key:  "contact"
-  - link: "/impressum.html"
-    text: "Impressum"
-    key:  "impressum"
-
 collections:
   courses:
     output: true
@@ -59,46 +31,30 @@ defaults:
     scope:
       path: ""
     values:
-      lang: en
-      layout: default
+      share: "true"
+      lang: "de"
+      layout: "default"
   -
     scope:
-      path: _posts/de
+      path: "posts/en"
     values:
-      share: true
-      lang: de
+      lang: "en"
   -
     scope:
-      path: _posts/en
+      path: "pages/en"
     values:
-      share: true
-      lang: en
+      lang: "en"
   -
     scope:
-      path: _pages/de
+      path: "courses"
     values:
-      lang: de
-      share: true
+      layout: "course"
   -
     scope:
-      path: _pages/en
+      path: "courses/en"
     values:
-      share: true
-      lang: en
-  -
-    scope:
-      path: _courses/de
-    values:
-      layout: course
-      lang: de
-      share: true
-  -
-    scope:
-      path: _courses/en
-    values:
-      layout: course
-      share: true
-      lang: en
+      layout: "course"
+      lang: "en"
 
 # Enforce the standard ASCIIDOC behavior for Jekyll.
 asciidoctor:

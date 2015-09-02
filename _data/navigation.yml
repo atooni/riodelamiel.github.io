@@ -1,0 +1,38 @@
+de:
+  logo:
+    title: "Rio de la Miel"
+    url: "/"
+  blog:
+    title: "Blog"
+    url: "/blog.html"
+  courses:
+    title: "Kurse"
+    url: "/pages/de/courses.html"
+  about:
+    title: "Über uns"
+    url: "/pages/de/about.html"
+  contact:
+    title: "Kontakt"
+    url: "/pages/de/contact.html"
+  legal:
+    title: "Impressum"
+    url: "/pages/de/impressum.html"
+en:
+  logo:
+    title: "Rio de la Miel"
+    url: "/pages/en/index.html"
+  blog:
+    title: "Blog"
+    url: "/blog.html"
+  courses:
+    title: "Courses"
+    url: "/pages/en/courses.html"
+  about:
+    title: "About us"
+    url: "/pages/en/about.html"
+  contact:
+    title: "Contact"
+    url: "/pages/en/contact.html"
+  legal:
+    title: "Legal"
+    url: "/pages/en/impressum.html"

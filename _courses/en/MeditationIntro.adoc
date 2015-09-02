@@ -1,14 +1,10 @@
 ---
-key: veg_201504
-layout: course
-title: Veganes kochen
+title: Introduction into Meditation
 start:
-  - 22.04.2015
+  - 25.03.2015
 trainer:
   - karin
-  - andreas
-image: cooking.jpg
-lang: en
+image: meditation.jpg
 ---
 
 == This is the english version

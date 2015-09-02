@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{page.lang}}">
 <head>
   {% include head.html %}
 </head>
@@ -19,7 +19,7 @@
     </div>
     <div class="row">
       <div class="col-md-10 page-body">
-        <a href="/courses.html">Kursübersicht</a>
+        <a href="/pages/{{page.lang}}/courses.html">{{site.data.translation['current_courses'][page.lang]}}</a>
       </div>
     </div>
     {% if page.share %}

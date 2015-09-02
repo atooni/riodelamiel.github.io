@@ -1,16 +1,12 @@
 ---
-layout: course
-title: Einführung in die Meditation
+title: Veganes kochen
 start:
-  - 25.03.2015
+  - 22.04.2015
 trainer:
   - karin
-image: meditation.jpg
-lang: en
+  - andreas
+image: cooking.jpg
 ---
-
-== This is the english version
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at congue tortor, maximus tincidunt tortor. Sed in eleifend felis, sed dignissim nulla. Cras dapibus ex non turpis luctus condimentum. Proin iaculis nisi quis
 lacus ullamcorper molestie. Phasellus imperdiet metus ligula, vitae gravida elit finibus congue. Aliquam vestibulum tellus sit amet nunc ornare, et blandit purus iaculis. Cras eleifend nec metus sit amet tristique.
 Integer aliquet, orci sed facilisis scelerisque, purus nulla dignissim massa, id vulputate dolor ipsum vel elit. Maecenas eget augue ut turpis venenatis porttitor. Ut pretium tortor felis, vitae consequat nunc gravida

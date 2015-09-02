@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<html lang="{{page.lang}}">
   {% include head.html %}
 </head>
 <body id="{{ page.key }}">
@@ -17,7 +17,7 @@
     </div>
     <div class="row">
       <div class="col-md-10 page-body" itemprop="description">
-        <h2><a href="/courses.html">Kurse</a></h2>
+        <h2><a href="/_pages/de/courses.html">Kurse</a></h2>
         {% for course in site.courses %}
           {% for t in course.trainer %}
             {% if t == page.trainer %}

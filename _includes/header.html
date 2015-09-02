@@ -7,18 +7,15 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/index.html">
+        <a class="navbar-brand" href="{{site.data.navigation[page.lang]['logo'].url}}">
           <img src="/images/logo.png" alt="Home" width="150"/>
         </a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          {% for link in site.links %}
-          <li>
-          {% if forloop.first %}
-          <a href="{{link.link}}"><span class="glyphicon glyphicon-home"></span>{{link.text}}</a>
-          {% else %}
-          <a href="{{ link.link }}">{{link.text}}</a>
+          {% for menu in site.data.navigation[page.lang] %}
+          {% if menu[0] != 'logo' %}
+          <li><a href="{{ menu[1].url }}">{{ menu[1].title }}</a></li>
           {% endif %}
           {% endfor %}
         </ul>
@@ -40,7 +37,7 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox"  >
-      {% for banner in site.banners %}
+      {% for banner in site.data.banner %}
       {% if forloop.first %}
       <div class="item active">
       {% else %}
