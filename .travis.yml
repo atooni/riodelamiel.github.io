@@ -17,6 +17,7 @@ install:
   - gem install jekyll
   - gem install asciidoc
   - gem install jekyll-asciidoc
+  - gem install jekyll-sitemap
   - npm install grunt-cli
 
 env:

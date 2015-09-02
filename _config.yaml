@@ -12,6 +12,7 @@ google_analytics: "UA-51632968-2"
 
 gems:
   - jekyll-asciidoc
+  - jekyll-sitemap
 
 versions:
   jquery : "1.11.3"

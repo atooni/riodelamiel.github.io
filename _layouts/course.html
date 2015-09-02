@@ -10,6 +10,10 @@
   <div class="container">
     <div class="row">
       <div class="col-md-10 page-body">
+        <h2>{{page.title}}</h2>
+        {% if page.image %}
+        <img src="/images/courses/{{page.image}}" class="ads_left" />
+        {% endif %}
         {{content}}
       </div>
     </div>
