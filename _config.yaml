@@ -31,6 +31,7 @@ defaults:
     scope:
       path: ""
     values:
+      type: "page"
       share: "true"
       lang: "de"
       layout: "default"
@@ -38,11 +39,13 @@ defaults:
     scope:
       path: "_posts/en"
     values:
+      type: "posts"
       lang: "en"
   -
     scope:
       path: "_posts/de"
     values:
+      type: "posts"
       lang: "de"
   -
     scope:
@@ -53,6 +56,7 @@ defaults:
     scope:
       path: "courses"
     values:
+      type: "course"
       layout: "course"
   -
     scope:
@@ -64,6 +68,7 @@ defaults:
     scope:
       path: "trainer"
     values:
+      type: "trainer"
       layout: "trainer"
   -
     scope:
