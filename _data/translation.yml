@@ -18,3 +18,31 @@ read_more:
   en: "Read more ..."
   de: "Weiter lesen ..."
 
+month:
+  en:
+    m1  : "January"
+    m2  : "February"
+    m3  : "March"
+    m4  : "April"
+    m5  : "May"
+    m6  : "June"
+    m7  : "July"
+    m8  : "August"
+    m9  : "September"
+    m10 : "October"
+    m11 : "November"
+    m12 : "December"
+  de:
+    m1  : "Januar"
+    m2  : "Februar"
+    m3  : "März"
+    m4  : "April"
+    m5  : "Mai"
+    m6  : "Juni"
+    m7  : "Juli"
+    m8  : "August"
+    m9  : "September"
+    m10 : "Oktober"
+    m11 : "November"
+    m12 : "December"
+

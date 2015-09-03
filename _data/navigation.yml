@@ -4,7 +4,7 @@ de:
     url: "/"
   blog:
     title: "Blog"
-    url: "/blog.html"
+    url: "/pages/de/blog.html"
   courses:
     title: "Kurse"
     url: "/pages/de/courses.html"
@@ -23,7 +23,7 @@ en:
     url: "/pages/en/index.html"
   blog:
     title: "Blog"
-    url: "/blog.html"
+    url: "/pages/en/blog.html"
   courses:
     title: "Courses"
     url: "/pages/en/courses.html"

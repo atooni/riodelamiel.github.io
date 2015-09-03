@@ -1,0 +1,21 @@
+{% assign posts=site.posts | where:"lang", page.lang | where:"type", posts %}
+{% for post in posts %}
+{% capture currentmonth %}{{post.date | date: "%m/%Y"}}{% endcapture %}
+{% if currentmonth != month %}
+{% capture nrmonth %}m{{ post.date | date: '%-m' }}{% endcapture %}
+{% unless forloop.first %}
+</ul>
+{% endunless %}
+<h2>{{ site.data.translation['month'][post.lang][nrmonth] }} {{ post.date | date: '%Y' }}</h2>
+  {% capture month %}{{currentmonth}}{% endcapture %}
+  {% endif %}
+      <h3>{{ post.date | date: '%-d' }} : {{ post.title }}</h3>
+      {{ post.summary }}
+    </div>
+    <div>
+      <a href="{{ post.url }}" class="btn btn-info ads_right" role="button">{{ site.data.translation['read_more'][post.lang]}}</a>
+    </div>
+    {% endfor %}
+  </ul>
+</li>
+</ul>

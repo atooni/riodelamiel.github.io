@@ -17,15 +17,8 @@
     </div>
     <div class="row">
       <div class="col-md-10 page-body" itemprop="description">
-        <h2><a href="/_pages/de/courses.html">Kurse</a></h2>
-        {% for course in site.courses %}
-          {% for t in course.trainer %}
-            {% if t == page.trainer %}
-              <h3>{{course.start}} - {{course.end}}</h3>
-              <a href="{{course.url}}">{{course.title}}</a>
-            {% endif %}
-          {% endfor %}
-        {% endfor %}
+        <h2><a href="/pages/{{page.lang}}/courses.html">{{ site.data.translation['current_courses'][page.lang] }}</a></h2>
+        {% include courses.html trainer=page.trainer lang=page.lang %}
       </div>
     </div>
     {% if page.share %}

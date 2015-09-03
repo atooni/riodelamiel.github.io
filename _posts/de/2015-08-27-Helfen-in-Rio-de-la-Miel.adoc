@@ -1,5 +1,7 @@
 ---
-date:   2015-08-27
+title:   Helfen in Rio de la Miel
+date:    2015-08-27
+summary: Von Oktober 2015 bis März 2016 werden wir ein neues Yoga Seminarhaus in Rio de la Miel bei Nerja in der Provinz Malaga eröffnen und laden interessierte Helfer ein, uns gegen freie Kost und Logis ein Stück auf diesem Weg zu begleiten.
 ---
 
 == In eigener Sache

@@ -1,4 +1,4 @@
-permalink: /:title.html
+permalink: /posts/:title.html
 url: http://www.riodelamiel.eu
 
 owner:
@@ -36,9 +36,14 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "posts/en"
+      path: "_posts/en"
     values:
       lang: "en"
+  -
+    scope:
+      path: "_posts/de"
+    values:
+      lang: "de"
   -
     scope:
       path: "pages/en"
@@ -54,6 +59,16 @@ defaults:
       path: "courses/en"
     values:
       layout: "course"
+      lang: "en"
+  -
+    scope:
+      path: "trainer"
+    values:
+      layout: "trainer"
+  -
+    scope:
+      path: "trainer/en"
+    values:
       lang: "en"
 
 # Enforce the standard ASCIIDOC behavior for Jekyll.
