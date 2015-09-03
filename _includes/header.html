@@ -20,9 +20,25 @@
           <li><a href="{{ menu[1].url }}">{{ menu[1].title }}</a></li>
           {% endif %}
           {% endfor %}
+        </ul>
 
-          <li><a href="#">{{ page.type }}</a></li>
-
+        <ul class="nav navbar-nav navbar-right">
+          {% if page.type == "course" %}
+            {% assign a = site.courses | where:"course", page.course | sort:"lang" %}
+            {% include languages.html alternatives = a %}
+          {% endif %}
+          {% if page.type == "posts" %}
+            {% assign a = site.posts | where:"date", page.date | sort:"lang" %}
+            {% include languages.html alternatives = a %}
+          {% endif %}
+          {% if page.type == "trainer" %}
+            {% assign a = site.pages | where:"type", "trainer" | where:"trainer", page.trainer | sort:"lang" %}
+            {% include languages.html alternatives = a %}
+          {% endif %}
+          {% if page.type == "page" %}
+            {% assign a = site.content | where:"key", page.key | sort:"lang" %}
+            {% include languages.html alternatives = a %}
+          {% endif %}
         </ul>
       </div>
     </div>

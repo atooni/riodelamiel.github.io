@@ -1,6 +1,7 @@
 ---
+key: contact
 ---
-=== Contact us
+=== Sprecht uns an
 Für Fragen rund um euren Aufenthalt und eure Seminare in Rio de la Miel wir Ihnen gerne per Telefon oder eMail zur Verfügung.
 
 Wir helfen nach Kräften bei der Organisation der Anreise oder mit informationen über zusätzliche Angebote in der näheren Umgebung.
@@ -12,45 +13,45 @@ Stahlzwingerweg 6 +
 93047 Regensburg +
 info@riodelamiel.eu
 
-=== Address of the seminar house
+=== Anschrift des Seminarhauses
 Rio de la Miel, xxx, Province of Malaga,  Spain.
 
 ++++
 <div id="map"></div>
 ++++
 
-=== How to get to us by car
+=== So findet ihr uns mit dem Auto
 
 ++++
 <div id="route"></div>
 ++++
 
-=== Postal address
+=== Postaddresse
 Apartado de Correos 504, E18690 Almuñecar, Spain.
 
-=== Busses to and from Nerja
+=== Busse von und nach Nerja
 
 Hier ist die offizielle Seite mit den Busverbindungen von und nach Nerja:
 
 http://www.nerjatoday.com/nerja/bus-timetables/
 
-=== eMail:
+=== E-mail:
 info@riodelamiel.eu
 
-=== Telephone:
+=== Telefon
 
 [cols="3"]
 |===
 
-|*Germany*
+|*Deutschland*
 |
 |+49 177 343 2483
 
-|*Spain*
+|*Spanien*
 |
 |+34 644 888 098
 
-|*Telefax*
+|*Fax*
 |
 |+49 1805 006534 2114
 |===

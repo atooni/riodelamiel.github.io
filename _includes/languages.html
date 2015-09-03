@@ -1,0 +1,3 @@
+{% for a in include.alternatives %}
+<li class="navbar-right lang"><a href="{{ a.url }}" class="{{a.lang}}"><img src="/images/flags/{{a.lang}}.jpg" class="lang {{a.lang}}" width="25" height="15"/></a></li>
+{% endfor %}

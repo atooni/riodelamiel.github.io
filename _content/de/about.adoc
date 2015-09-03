@@ -1,8 +1,6 @@
 ---
+key: about
 ---
-
-== English version
-
 ++++
 <div class="row">
 ++++

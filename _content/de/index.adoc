@@ -1,4 +1,5 @@
 ---
+key: index
 permalink: /
 ---
 == Rio de la Miel

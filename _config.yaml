@@ -22,7 +22,7 @@ collections:
   courses:
     output: true
     permalink: /courses/:path.html
-  pages:
+  content:
     output: true
     permalink: /pages/:path.html
 

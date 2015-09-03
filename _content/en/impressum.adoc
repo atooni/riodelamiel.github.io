@@ -1,5 +1,9 @@
 ---
+key: impressum
 ---
+
+== English version
+
 == Angebote
 
 === Das Seminarhaus
