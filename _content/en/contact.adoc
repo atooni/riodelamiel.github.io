@@ -2,12 +2,15 @@
 key: contact
 ---
 === Contact us
-Für Fragen rund um euren Aufenthalt und eure Seminare in Rio de la Miel wir Ihnen gerne per Telefon oder eMail zur Verfügung.
+For any questions you might have regarding your seminar in Rio de la Miel do not hesitate to contact us by eMail. We
+will answer as quick as we possibly can.
 
-Wir helfen nach Kräften bei der Organisation der Anreise oder mit informationen über zusätzliche Angebote in der näheren Umgebung.
-Zögert nicht, uns zu kontaktieren - wir freuen uns auf euch.
+We also help you to the best of our knowledge organising your travel and inform you about additional points of interest
+close to Rio de la Miel.
 
-=== Veranstalter
+Do not hesitate to contact us - we are glad to help.
+
+=== Organiser
 WoQ - Way of Quality GmbH +
 Stahlzwingerweg 6 +
 93047 Regensburg +
@@ -27,11 +30,14 @@ Rio de la Miel, xxx, Province of Malaga,  Spain.
 ++++
 
 === Postal address
-Apartado de Correos 504, E18690 Almuñecar, Spain.
+Karin & Andreas Gies +
+Apartado 1082 +
+E18697 La Herradura +
+Spain
 
 === Busses to and from Nerja
 
-Hier ist die offizielle Seite mit den Busverbindungen von und nach Nerja:
+This is the official web site with all the buses to and from Nerja:
 
 http://www.nerjatoday.com/nerja/bus-timetables/
 

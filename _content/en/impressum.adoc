@@ -6,39 +6,44 @@ key: impressum
 
 == Angebote
 
-=== Das Seminarhaus
+=== The Seminar House
 
-Das Seminarhaus _Rio de la Miel_ liegt am Rande eines Naturschutzgebietes in der Nähe von Nerja in der Provinz Malaga.
-_Rio de la Miel_ wird ausschliesslich als Yogaseminarhaus geführt und bietet seinen Gästen einen ganzheitlichen Aufenthalt
-mit täglich 2 geführten Meditationen, 2 Yogastunden und zwei veganen Mahlzeiten (Brunch und Abendessen).
+The seminar house _Rio de la Miel_ is is at the edge of the nature reserve called Sierra de Tejeda. The next bigger
+village is Nerja in the province of Malaga. _Rio de la Miel_ exclusively offers Yoga vacations and seminars
+and offers a holistic experience to its guests. The daily Yoga practice includes 2 meditations, 2 Yoga lessons and
+2 vegan meals (brunch and diner).
 
-Auf dem gesamten Gelände von _Rio de la Miel_ gilt absolutes Rauch- und Alkoholverbot. Alle Gäste erkennen mit ihrer
-Reservierung für die Dauer ihres Aufenthaltes diese Grundregel an.
+_Rio de la Miel_ is completely smoke- and alcohol free. All guests accept this basic rule for their stay at _Rio de la
+Miel_ when they submit their reservation.
 
-==== Yogaferien
+==== Yoga vacation
 
-Yogaferien in _Rio de la Miel_ können jederzeit in beliebiger Länge gebucht werden. Den Gästen der Yogaferien stehen
-alle Meditationen und Yogastunden offen. Die Teilnahme ist nicht verpflichtend, jedoch im Sinne einer gemeinsamen
-Erfahrung wäre die Teilnahme an einer Meditation und einer Yogastunde am tag wünschenswert.
+Yoga vacations in _Rio de la Miel_ can be booked without limitation with a minimum stay of 3 days.
+
+All Yoga vacation guests can participate in all meditations and open Yoga lessons. The participation is voluntary, but
+every guest should keep in mind that the energy of _Rio de la Miel_ increases with every single person participating in
+a Yoga lesson, meditation or satsan.
 
 ==== Kurse
 
-Regelmäßig werden in _Rio de la Miel_ Yoga- und Meditationskurse mit erfahrenen Yogalehrern angeboten. Die Unterbringung
-der Kursteilnehmer erfolgt ebenfalls in _Rio de la Miel_. Sofern kein gesondertes Kursprogramm angeboten wird, stehen
-den Kursteilnehmern allle Veranstaltungen des normalen Tagesprogrammes in _Rio de la Miel_ offen.
-Ja nach Kurs finden zusätzliche Vortäge oder Workshops statt.
+On a regular basis there will be Yoga courses in _Rio de la Miel_ conducted by experienced Yoga teachers. All course
+participants will also stay in _Rio de la Miel_ and can participate in all Yoga classes and meditations unless there
+is a course specific class or presentation.
 
 ==== Karmayoga
 
-Je nach Verfügbarkeit können Yoga-Interessierte gegen Kost, Logis, Meditation und eine Yogastunde täglich in
-_Rio de la Miel_ helfen. Die Form der Hilfe richtet sich nach aktuellem Bedarf und Fähigkeiten. Die Mitarbeit pro Tag
-beträgt ca. 4 Stunden.
+We will need help to run _Rio de la Miel_ and invite people who interested to help us to live with us for a while. We
+offer free food, shelter, meditation and one Yoga lesson a day. We would expect you to help us 4-6 hours a day in return.
 
-Wähend des Seminarbetriebes werden wir in erster Linie Hilfe bei der Reinigung, in der Küche und bei der Gästebetreuung
-benötigen. In ruhigeren Phasen planen wir den weiteren Ausbau von _Rio de la Miel_.
+Once we have opened for seminars we will mainly need help in the kitchen, with cleaning and in the garden. In quiet phases
+we are planning to make _Rio de la Miel_ even more beautiful.
 
-=== Reservierung und Buchung
+If you interested to come and help, please get in contact with us and let us know for when and for how long you are
+interested to come.
 
+=== Reservations
+
+. foo
 . Die Reservierung des Aufenthalts erfolgt direkt über die Webseite www.riodelamiel.eu, durch die Webseiten unserer
 Kooperationspartner, durch eMail oder telefonisch. Eine Reservierung sollte immer unter Angabe eines gewünschten
 Aufenthaltszeitraumes bzw. Seminars und einer Zimmerkategorie erfolgen.
@@ -50,17 +55,17 @@ ausreichend Zeit gegeben ist, um Flüge für die Anreise zu buchen.
 . 4 Wochen vor Reiseantritt ist die Restzahlung zu entrichten. Sollte die Zahlung nicht rechtzeitg erfolgen, behält sich
 _Rio de la Miel_ vor, die reservierten Plätze anderweitig zu vergeben.
 
-=== Stornierungen
+=== Cancellations
 
-. Die Reise kann vor Reiseantritt storniert werden. In diesem Fall erhält der Gast einen Gutschein für einen späteren
-Aufenthalt in _Rio de la Miel_ in Höhe der bisher geleisteten Zahlung abzüglich einer Bearbeitungsgebühr
-.. bis 4 Wochen vor Reiseantritt 50€
-.. bis 1 Tag vor Reiseantritt 100€
-. Wird die Reise ohne Angabe von Gründen nicht angetreten, so besteht kein Anspruch auf eine Rückerstattung. Wir
-empfehlen den Abschluß einer Reisekostenversicherung, um krankheitsbedingte Reiseausfälle abzudecken.
-. Sofern ein Kurs auf Grund mangelnder Anmeldungen nicht durchgeführt werden kann, kann der Gast zwischen einer
-kostenfreien Stornierung und einer Umwandlung in einen Yogaaufenthalt wählen. Im Falle der Umwandlung werden eventuell
-zuviel gezahlte Kursgebühren zurück erstattet.
+. The stay at _Rio de la Miel_ can be cancelled until 1 day before the stay. With a cancellation the guest will receive
+a voucher for a later stay in _Rio de la Miel_ equivalent to the amount paid to date less a cancellation fee of
+.. 50€ if the vacation should have started in more than 4 weeks
+.. 100€ if the vacation should have started in less than 4 weeks.
+. If the guest does not arrive to a booked vacation without notice, the paid amount up to date is forfeited. We recommend
+to consider a travel insurance to cover for cases of illnes etc.
+. In case a course has to be cancelled due to lack of interest, the guest can choose between a cancellation free of charge
+and Yoga vacations at _Rio de la Miel_. In any of these cases any overpaid amount will be transferred to the guests bank
+account or the credit card used for pyayments.
 
 ---
 
@@ -115,11 +120,11 @@ Fall der unverlangten Zusendung von Werbeinformationen, z.B. durch Spam-Mails, v
 
 [cols="3"]
 |===
-|*Verantwortlich für den Inhalt*
+|*Responsible for the content*
 |
 |WoQ - Way of Quality GmbH
 
-|*Geschäftsführer*
+|*General Manager*
 |
 |Andreas Gies
 
@@ -131,15 +136,15 @@ Fall der unverlangten Zusendung von Werbeinformationen, z.B. durch Spam-Mails, v
 |
 |+49 151 23470823
 
-|*Fax*
+|*Telefax*
 |
 |+49 1805 006534 2114
 
-|*Handelsregister*
+|*Registered*
 |
 |AG Regensburg	HRB 14542
 
-|*Ust.-Id.*
+|*VAT-Id.*
 |
 |DE274771254
 |===
