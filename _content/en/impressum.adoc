@@ -2,9 +2,7 @@
 key: impressum
 ---
 
-== English version
-
-== Angebote
+== Rio de la Miel
 
 === The Seminar House
 
@@ -24,13 +22,13 @@ All Yoga vacation guests can participate in all meditations and open Yoga lesson
 every guest should keep in mind that the energy of _Rio de la Miel_ increases with every single person participating in
 a Yoga lesson, meditation or satsan.
 
-==== Kurse
+==== Courses
 
 On a regular basis there will be Yoga courses in _Rio de la Miel_ conducted by experienced Yoga teachers. All course
 participants will also stay in _Rio de la Miel_ and can participate in all Yoga classes and meditations unless there
 is a course specific class or presentation.
 
-==== Karmayoga
+==== Karma Yoga
 
 We will need help to run _Rio de la Miel_ and invite people who interested to help us to live with us for a while. We
 offer free food, shelter, meditation and one Yoga lesson a day. We would expect you to help us 4-6 hours a day in return.
@@ -38,22 +36,22 @@ offer free food, shelter, meditation and one Yoga lesson a day. We would expect 
 Once we have opened for seminars we will mainly need help in the kitchen, with cleaning and in the garden. In quiet phases
 we are planning to make _Rio de la Miel_ even more beautiful.
 
-If you interested to come and help, please get in contact with us and let us know for when and for how long you are
+If you are interested to come and help, please get in contact with us and let us know for when and for how long you are
 interested to come.
 
 === Reservations
 
-. foo
-. Die Reservierung des Aufenthalts erfolgt direkt über die Webseite www.riodelamiel.eu, durch die Webseiten unserer
-Kooperationspartner, durch eMail oder telefonisch. Eine Reservierung sollte immer unter Angabe eines gewünschten
-Aufenthaltszeitraumes bzw. Seminars und einer Zimmerkategorie erfolgen.
-. Nach Eingang der Reservierung wird diese von _Rio de la Miel_ per eMail bestätigt. Nach erhalt der
-Reservierungsbestätigung ist innerhalb von 5 Tagen eine Anzahlung von 20% des Gesamtpreises zu entrichten, so daß
-ausreichend Zeit gegeben ist, um Flüge für die Anreise zu buchen.
-. Für einen Karmayogaaufenthalt reicht die schriftliche Bestätigung seitens _Rio de la Miel_ für die Verbindlichkeit aus.
-. Wird innerhalb von 5 Arbeitstagen die Anzahlung nicht geleistet, verfällt die Reservierung und muss erneut getätigt  werden.
-. 4 Wochen vor Reiseantritt ist die Restzahlung zu entrichten. Sollte die Zahlung nicht rechtzeitg erfolgen, behält sich
-_Rio de la Miel_ vor, die reservierten Plätze anderweitig zu vergeben.
+. Reservations are accepted via the web site www.riodelamiel.eu, eMail to reservations@riodelamiel.eu, phone and fax.
+All reservations should specify the start and the end date of the stay and any courses the guest wants to participate in.
+. All reservations will be answered by _Rio de la Miel_ with either a confirmation or a deinal in case the course is
+already sold out.
+. In case a reservation is confirmed it will be guaranteed for 7 days. After 7 days a deposit of 20% of the total
+price must be made to make the guarantee permanent. This should give enough time to arrange flights for the visit.
+. For Karma Yogis a confirmation from _Rio de la Miel_ is sufficient for a permanent guarantee. We would ask Karmayogis
+to let us know as early as possible if they can't come as planned.
+. If the deposit is not made within 7 days, the reservation is forfeited and must be redone.
+. 4 weeks before the seminar or vacation the rest of the total price must be paid. If the payment is not made in time,
+_Rio de la Miel_ has the right to offer the reserved slots again.
 
 === Cancellations
 
@@ -69,52 +67,36 @@ account or the credit card used for pyayments.
 
 ---
 
-== Rechtliche Hinweise
+== Legal
 
-=== Haftungsbeschränkung
+The contents of our pages were created with great care. For the correctness, completeness and actuality we can not
+take any responsibility. As a service provider we are responsible according to 1 MDStV and 1 TDG for own contents
+on these pages under the general laws. However, we are not obligated to monitor the transmitted or stored foreign
+information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use
+of information under the general laws remain unaffected. However, liability is only possible from the date of
+knowledge of a specific infringement. Upon notification of such violations, we will remove the content immediately.
 
-Die Inhalte des Internetauftritts wurden mit größtmöglicher Sorgfalt und nach bestem Gewissen erstellt. Dennoch übernimmt
-der Anbieter dieser Webseite keine Gewähr für die Aktualität, Vollständigkeit und Richtigkeit der bereitgestellten Seiten
-und Inhalte.
+Our offer contains links to external websites over which we have no control. Therefore we can not accept any
+responsibility for their content. The respective provider or operator of the pages is always responsible for
+the content of linked pages. The linked sites were checked at the time of linking for possible violations of law.
+Illegal contents were not recognizable. A permanent control of the linked pages is unreasonable without concrete
+evidence of a violation. Upon notification of violations, we will remove such links immediately.
 
-Als Diensteanbieter ist der Anbieter dieser Webseite gemäß § 7 Abs. 1 TMG für eigene Inhalte und bereitgestellte
-Informationen auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich; nach den §§ 8 bis 10 TMG jedoch nicht
-verpflichtet, die übermittelten oder gespeicherten fremden Informationen zu überwachen. Eine Entfernung oder Sperrung
-dieser Inhalte erfolgt umgehend ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung.
-Eine Haftung ist erst ab dem Zeitpunkt der Kenntniserlangung möglich.
+The operators of these pages aim to observe or to use their own or license-free works the copyrights of others.
+The contents and works on these pages created by the site operator are subject to German copyright law. Third party
+contributions are marked as such. Duplication, processing, distribution and any kind of exploitation outside the
+limits of copyright require the written consent of the respective author or creator.
 
-=== Externe Links
+=== Data protection
 
-Die Webseite enthält sog. „externe Links“ (Verlinkungen) zu anderen Webseiten, auf deren Inhalt der Anbieter der
-Webseite keinen Einfluss hat. Aus diesem Grund kann der Anbieter für diese Inhalte auch keine Gewähr übernehmen.
-Für die Inhalte und Richtigkeit der bereitgestellten Informationen ist der jeweilige Anbieter der verlinkten Webseite
-verantwortlich. Zum Zeitpunkt der Verlinkung waren keine Rechtsverstöße erkennbar. Bei Bekanntwerden einer solchen
-Rechtsverletzung wird der Link umgehend entfernt.
+Bei using this web site we may gather information regarding the web site traffic such as location, date and time of the
+access, browser used etc.
 
-=== Urheberrecht/Leistungsschutzrecht
+We will not gather nor store personal information without the consent of the user. Using the contact form implies
+consent to store the data of the form for internal processes. _Rio de la Miel_ will only use the data for its own
+purposes and will not pass the data to any 3rd party.
 
-Die auf dieser Webseite veröffentlichten Inhalte, Werke und bereitgestellten Informationen unterliegen dem deutschen
-Urheberrecht und Leistungsschutzrecht. Jede Art der Vervielfältigung, Bearbeitung, Verbreitung, Einspeicherung und
-jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedarf der vorherigen schriftlichen Zustimmung des
-jeweiligen Rechteinhabers. Das unerlaubte Kopieren/Speichern der bereitgestellten Informationen auf diesen Webseiten
-ist nicht gestattet und strafbar.
-
-=== Datenschutz
-
-Durch den Besuch des Internetauftritts können Informationen (Datum, Uhrzeit, aufgerufene Seite) über den Zugriff auf
-dem Server gespeichert werden. Es werden keine personenbezogenenen (z. B. Name, Anschrift oder E-Mail-Adresse) Daten,
-gespeichert.
-
-Sofern personenbezogene Daten erhoben werden, erfolgt dies, sofern möglich, nur mit dem vorherigen Einverständnis des
-Nutzers der Webseite. Eine Weitergabe der Daten an Dritte findet ohne ausdrückliche Zustimmung des Nutzers nicht statt.
-
-Der Anbieter weist darauf hin, dass die Übertragung von Daten im Internet (z. B. per E-Mail) Sicherheitslücken aufweisen
-und ein lückenloser Schutz der Daten vor dem Zugriff Dritter nicht gewährleistet werden kann. Der Anbieter übernimmt
-keine Haftung für die durch solche Sicherheitslücken entstandenen Schäden.
-
-Der Verwendung der Kontaktdaten durch Dritte zur gewerblichen Nutzung wird ausdrücklich widersprochen. Es sei denn,
-der Anbieter hat zuvor seine schriftliche Einwilligung erteilt. Der Anbieter behält sich rechtliche Schritte für den
-Fall der unverlangten Zusendung von Werbeinformationen, z.B. durch Spam-Mails, vor.
+The contact data of _Rio de la Miel_ may not be used for marketing purposes unless we have explicitly agrred to do so.
 
 ---
 
