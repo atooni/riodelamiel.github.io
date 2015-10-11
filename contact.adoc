@@ -15,7 +15,7 @@ Stahlzwingerweg 6 +
 info@riodelamiel.eu
 
 === Anschrift des Seminarhauses
-Rio de la Miel, xxx, Province of Malaga,  Spain.
+Rio de la Miel, Nerja, Province of Malaga,  Spain.
 
 ++++
 <div id="map"></div>
@@ -28,7 +28,10 @@ Rio de la Miel, xxx, Province of Malaga,  Spain.
 ++++
 
 === Postaddresse
-Apartado de Correos 504, E18690 Almuñecar, Spain.
+Karin & Andreas Gies +
+Apartado 1082 +
+E18697 La Herradura +
+Spain
 
 === Busse von und nach Nerja
 
