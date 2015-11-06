@@ -14,7 +14,7 @@ Stahlzwingerweg 6 +
 info@riodelamiel.eu
 
 === Anschrift des Seminarhauses
-Rio de la Miel, xxx, Province of Malaga,  Spain.
+Rio de la Miel, Province of Malaga,  Spain.
 
 ++++
 <div id="map"></div>
