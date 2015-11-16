@@ -15,7 +15,7 @@ before-install:
 
 install:
   - gem install jekyll -v 2.5.3
-  - gem install asciidoc -v 1.5.2
+  - gem install asciidoctor -v 1.5.2
   - gem install jekyll-asciidoc -v 1.0.0
   - npm install grunt-cli
 
