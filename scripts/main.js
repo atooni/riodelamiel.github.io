@@ -17,7 +17,7 @@ function createMap(elem, mapType) {
     lat: rdm_lat,
     lng: rdm_lon,
     infoWindow: {
-      content: "<p>Bis bald in <i>Rio de la Miel!</i></p>"
+      content: "<p>Bis bald in <i>Rio de la Miel!</i> (" + rdm_lat + "," + rdm_lon + ")</p>"
     }
   });
 
