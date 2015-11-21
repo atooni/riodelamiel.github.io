@@ -27,6 +27,11 @@ Rio de la Miel, Nerja, Province of Malaga,  Spain.
 <div id="route"></div>
 ++++
 
+=== Anfahrtsbeschreibung
+
+Hier findet ihr eine Anfahrtsskizze als PDF zum link:/images/Anfahrt.pdf[herunter laden] - da es auf dem Weg vom Tal zu uns stellenweise
+keine Mobilverbindung gibt.
+
 === Postaddresse
 Karin & Andreas Gies +
 Apartado 1082 +
