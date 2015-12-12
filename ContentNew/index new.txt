@@ -1,0 +1,74 @@
+---
+key: index
+permalink: /
+---
+++++
+<div class="row" align="center">
+++++
+
+== We offer in our Yoga-Retreat here in andalusia: 
+
+++++
+<div class="col-md-4" align="center">
+++++
+image::/images/meditation.jpg[height=150, align=center]
+
+In this location, you have the possibility to develop mechanisms through daily morning meditation which help you to un-stress your day-by-day habits. An diesem Ort hast Du die Möglichkeit, durch die morgendliche Meditation Mechanismen zu entwickeln, die Dir helfen den Alltag zu entschleunigen.
+
+++++
+</div>
+++++
+++++
+<div class="col-md-4" align="center">
+++++
+image::/images/vegan.jpg[height=150, align=center]
+
+Unser Bestreben ist es, im Einklang mit unserer Umgebung zu leben. Lokale Lebensmittel ohne tierische Anteile sind uns daher sehr wichtig. Das Erlebnis, 
+gemeinsam zu kochen, lässt unzählige unterschiedliche Geschmackserlebnisse für jeden Gaumen entstehen.
+
+++++
+
+</div>
+++++
+
+++++
+<div class="col-md-4" align="center">
+++++
+image::/images/yoga.jpg[height=150, align=center]
+
+Unsere Erfahrungen mit Yoga sind in vielerlei Hinsicht positiv. Dieses Gefühl möchten wir gerne mit anderen Menschen teilen.
+
+Hier vor Ort in den Bergen möchten wir Dir die Yogaphilsophie näher zu bringen.
+
+++++
+</div>
+++++
+
+++++
+<div class="row" align="center">
+++++
+
+++++
+<div class="col-md-12home" align="center">
+++++
+
+
+== Ja, ich möchte mehr Informationen dazu +
+
+== *link:/pages/de/courses.html[Yoga und Meditationskursen]*
+
+++++
+<button type="button" class="btn btn-warninghome"><a href="mailto:someone@example.com?
+Subject=Hello%20again" target="_top">Buchung Anfragen</a></button>
+++++
+
+++++
+</div>
+++++
+
+++++
+</div>
+++++
+
+
+
