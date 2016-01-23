@@ -5,9 +5,9 @@ de:
   courses:
     title: "Kurse"
     url: "/pages/de/courses.html"
-  prices:
-    title: "Preise"
-    url: "/pages/de/prices.html"
+  vacation:
+    title: "Yogaferien"
+    url: "/pages/de/vacation.html"
   about:
     title: "Über uns"
     url: "/pages/de/about.html"
@@ -28,9 +28,9 @@ en:
   courses:
     title: "Courses"
     url: "/pages/en/courses.html"
-  prices:
-    title: "Prices"
-    url: "/pages/en/prices.html"
+  vacation:
+    title: "Yoga Vacations"
+    url: "/pages/en/vacation.html"
   about:
     title: "About us"
     url: "/pages/en/about.html"
