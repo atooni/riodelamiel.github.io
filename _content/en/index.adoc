@@ -2,20 +2,39 @@
 key: index
 booking: true
 ---
-== Rio de la Miel
+++++
+<div class="row" align="center">
+++++
+== You will find in our seminar house:
 
-In only a few weeks we will leave our house in Salobreña and move in at _Rio de la Miel_. Some helpers are already
-preparing their travel to Andalucia and will arrive at the end of the month.
+++++
+<div class="col-md-4" align="center">
+++++
+image::/images/meditation.jpg[height=150, align=center]
+By a regular morning mediation you will discover that you can step out of the daily hectic routine. Take that experience back
+home and apply it during your day-to-day schedule.
+++++
+</div>
+++++
+++++
+<div class="col-md-4" align="center">
+++++
+image::/images/vegan.jpg[height=150, align=center]
+We try to minimise our environmental foot print and therefor the seminar house maintains a vegan kitchen. We buy the majority
+of our ingredients from local farmers and provide a great range of seasonal vegan dishes.
+++++
 
-All who have already connected with us on https://www.facebook.com/riodelamiel[Facebook] might find some additional -
-and hopefully useful - information here on our web site.
+</div>
+++++
 
-_Please be patient, we are just creating the content for the web site and in November we will have help to make it
-beautiful. Until then we will start by adding the dates for the first courses in 2016._
+++++
+<div class="col-md-4" align="center">
+++++
+image::/images/yoga.jpg[height=150, align=center]
+In Yoga we made many positive experiences meeting other people and cultures. We would like to share those experiences
+and introduce you to a rich system of pholosophies here in the mountains of Andalucia.
+++++
+</div>
+++++
 
-For now remember aur facebook page at https://www.facebook.com/riodelamiel and the associated facebook group
-https://www.facebook.com/groups/1037207009623135/
 
-We are looking forward to meet you at _Rio de la Miel_ soon
-
-Karin & Andreas

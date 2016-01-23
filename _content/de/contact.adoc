@@ -2,19 +2,23 @@
 key: contact
 ---
 === Sprecht uns an
-Für Fragen rund um euren Aufenthalt und eure Seminare in Rio de la Miel wir Ihnen gerne per Telefon oder eMail zur Verfügung.
+Für Fragen rund um euren Aufenthalt und eure Seminare in Rio de la Miel wir euch gerne per Telefon oder
+mailto:info@riodelamiel.eu[eMail] zur Verfügung.
 
-Wir helfen nach Kräften bei der Organisation der Anreise oder mit informationen über zusätzliche Angebote in der näheren Umgebung.
-Zögert nicht, uns zu kontaktieren - wir freuen uns auf euch.
+Wir helfen nach Kräften bei der Organisation der Anreise oder mit Informationen über zusätzliche Angebote in der
+näheren Umgebung. Zögert nicht, uns zu kontaktieren - wir freuen uns auf euch.
 
 === Veranstalter
-WoQ - Way of Quality GmbH +
-Stahlzwingerweg 6 +
-93047 Regensburg +
-info@riodelamiel.eu
+Godea Vida S.L.U. +
+C.I.F. ESB93426559 +
+Plaza Cavana 5 +
+29780 Nerja +
+Spain +
+mailto:info@riodelamiel.eu
 
 === Anschrift des Seminarhauses
-Rio de la Miel, Nerja, Province of Malaga,  Spain.
+Rio de la Miel, Province of Malaga,  Spain. +
+(36.762506, -3.853557)
 
 ++++
 <div id="map"></div>
@@ -25,6 +29,12 @@ Rio de la Miel, Nerja, Province of Malaga,  Spain.
 ++++
 <div id="route"></div>
 ++++
+
+=== Routenbeschreibung
+
+Hier findet ihr eine Anfahrtsbeschreibung zum link:/images/RiodelaMiel_de.pdf[herunter laden], da es auf dem Weg nach oben nur eingeschränkte Mobilverbindungen
+gibt.
+
 
 === Postaddresse
 Karin & Andreas Gies +
@@ -38,23 +48,28 @@ Hier ist die offizielle Seite mit den Busverbindungen von und nach Nerja:
 
 http://www.nerjatoday.com/nerja/bus-timetables/
 
-=== E-mail:
-info@riodelamiel.eu
-
 === Telefon
 
 [cols="3"]
 |===
 
+|*Spanien*
+|
+|+34 958 199 061
+
+|
+|
+|+34 644 888 098
+
 |*Deutschland*
 |
 |+49 177 343 2483
 
-|*Spanien*
 |
-|+34 644 888 098
+|
+|+49 151 234 70 823
 
-|*Fax*
+|*Telefax*
 |
 |+49 1805 006534 2114
 |===

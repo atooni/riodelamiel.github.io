@@ -6,7 +6,7 @@ booking: true
 ++++
 <div class="row" align="center">
 ++++
-== Wir bieten in unserem Ashram:
+== Wir bieten in unserem Seminarhaus:
 
 ++++
 <div class="col-md-4" align="center">

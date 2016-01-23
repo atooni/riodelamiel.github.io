@@ -1,5 +1,6 @@
 ---
 key: prices
+booking: true
 ---
 == Preise für Yogaferien
 

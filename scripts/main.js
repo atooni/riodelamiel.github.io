@@ -17,7 +17,7 @@ function createMap(elem, mapType) {
     lat: rdm_lat,
     lng: rdm_lon,
     infoWindow: {
-      content: "<p>Bis bald in <i>Rio de la Miel!</i> (" + rdm_lat + "," + rdm_lon + ")</p>"
+      content: "<p><i>Rio de la Miel!</i> (" + rdm_lat + "," + rdm_lon + ")</p>"
     }
   });
 
@@ -38,9 +38,6 @@ $( document ).ready(
       map.addMarker({
         lat: a7_lat,
         lng: a7_lon,
-        infoWindow: {
-          content: "<p>Hier von der A7 abfahren !</p>"
-        }
       });
 
       map.drawRoute({
