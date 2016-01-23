@@ -1,0 +1,50 @@
+---
+key: prices
+---
+== Preise für Yogaferien
+
+Yogaferien können jederzeit ab einer Länge von 3 Tagen gebucht werden. Die untenstehenden Preise sind Inklusivpreise
+und beinhalten Unterkunft, 2 vegane Mahlzeiten (Brunch und Abendessen), Abend- und Morgenmeditation sowie 2 Yogastunden
+am Tag.
+
+=== Mehrbettzimmer
+
+Unsere Mehrbettzimmer sind einfach gehalten und bieten fuer jeden Teilnehmer ein Bett und eine Ablage fuer persönliche
+Gegenstände und Kleidung. Wertgegenstände koennen in einem Safe an der Rezeption hinterlegt werden. Gäste in den
+Mehrbettzimmern nutzen eines der gemeinschaftlichen Bäder, die alle mit Dusche und WC ausgestattet sind.
+
+=== Doppelzimmer / Zweibettzimmer
+
+Die Doppelzimmer sind mit zwei Betten ausgestattet und bieten ausreichend Platz fuer persönliche Gegenstaende und
+Kleidung. Alle unsere Doppelzimmer verfügen ueber ein eigenes Bad mit Dusche und WC. Bei Einzelbuchungen im
+Zweibettzimmer kann ein weiterer Gast mit im Zimmer untergebracht werden.
+
+Auf Wunsch kann ein Zweibettzimmer zur Einzelnutzung gebucht werden.
+
+=== Einzelzimmer
+
+Das Einzelzimmer ist etwas kleiner geschnitten und bietet ein komfortables Bett und ausreichend Platz fuer persönliche
+Gegenstände und Kleidung. Ausserdem bietet ein bodentiefes Fenster viel Licht und einen schönen Blick ins Tal. Das
+Einzelzimmer verfügt über ein eigenes Bad mit Dusche und WC.
+
+=== Preisliste
+
+Alle untenstehenden Preise sind pro Person bei Anreise in eigener Regie angeben. Bei der Reservierung sind 25% des
+Gesamtbetrages fällig, die restliche Summe ist bei der Anreise zu entrichten.
+
+++++
+<div class="row" align="center">
+++++
+
+[width="80%",cols="1,^,^,^",options="header"]
+|======
+| Zimmertyp            | bis 7 Tage  | 1 Woche       | weiterer Tag
+|                      | pro Tag / € | pro Woche / € | pro Tag / €
+| Mehrbettzimmer       |  75         |  490          |   70
+| Doppelzimmer         | 100         |  630          |   90
+| DZ zur Einzelnutzung | 130         |  770          |  110
+| Einzelzimmer         | 150         |  910          |  130
+|======
+++++
+</div>
+++++

@@ -1,0 +1,48 @@
+---
+key: prices
+---
+== Prices for Yoga vacations
+
+Yoga cavactions can be booked any time with a minimum stay of 3 days. The prices below include accomodation, 2 vegan meals
+per day (brunch and diner), 2 meditations and 2 yoga classes per day.
+
+=== Dormitories
+
+The dormitories are of simple comfort and provide a bed and some space for personal items and personal gaderobe.
+Valueables can be stored in a safe at our reception. Guests staying in one of the dormitories use one of the shared
+bath rooms all of which are equipped with shower and WC.
+
+=== Double Room / Two bed room
+
+The double rooms have two beds and provide sufficient space for personal items and gaderobe. All double rooms have their
+own bath with shower and WC. Double rooms might be shared with another guest in if it is booked by a single person not
+requiring the room for single use.
+
+If required the room can be booked by a single person for exclusive use.
+
+=== Single Room
+
+The single room is a bit smaller, has a comfortable bed and sufficient space for personal items and gaderobe. It also
+has it's own bath room with shower and WC. A large window provides additional light and a nice view into the valley.
+
+=== Price List
+
+The prices below are per person excluding travel costs. With the reservation we require a deposit of 25% of the total
+price and the remaining balance is payable upon arrival.
+
+++++
+<div class="row" align="center">
+++++
+
+[width="80%",cols="1,^,^,^",options="header"]
+|======
+| Room type               | < 7 days    | 1 week        | additional day
+|                         | per day / € | per week / €  | per day / €
+| Dormitory               |  75         |  490          |   70
+| double room             | 100         |  630          |   90
+| double room single use  | 130         |  770          |  110
+| single room             | 150         |  910          |  130
+|======
+++++
+</div>
+++++

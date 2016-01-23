@@ -20,6 +20,7 @@ de:
   legal:
     title: "Impressum"
     url: "/pages/de/impressum.html"
+
 en:
   logo:
     title: "Rio de la Miel"
@@ -28,7 +29,7 @@ en:
     title: "Courses"
     url: "/pages/en/courses.html"
   prices:
-    title: "Preise"
+    title: "Prices"
     url: "/pages/en/prices.html"
   about:
     title: "About us"
