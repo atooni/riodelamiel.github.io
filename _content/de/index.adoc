@@ -1,6 +1,7 @@
 ---
 key: index
 permalink: /
+booking: true
 ---
 ++++
 <div class="row" align="center">
@@ -31,28 +32,6 @@ Wir versuchen im Einklang mit unserer Umgebung zu leben. Lokale Lebensmittel ohn
 image::/images/yoga.jpg[height=150, align=center]
 Unsere Erfahrungen mit Yoga waren in vielerlei Hinsicht positiv. Dieses Gefühl möchten wir gerne mit anderen Menschen teilen.
 Hier vor Ort in den Bergen versuchen wir Dir die Yogaphilsophie näher zu bringen.
-++++
-</div>
-++++
-
-++++
-<div class="row" align="center">
-++++
-
-++++
-<div class="col-md-12home" align="center">
-++++
-== Du hast Interesse an +
-== *link:/pages/de/courses.html[Yoga und Meditationskursen]*
-
-++++
-<button type="button" class="btn btn-warninghome"><a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Buchung Anfragen</a></button>
-++++
-
-++++
-</div>
-++++
-
 ++++
 </div>
 ++++

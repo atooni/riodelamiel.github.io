@@ -13,11 +13,12 @@
         {{ content }}
       </div>
     </div>
+    {% if page.booking %}
+    {% include enquiry.html %}
+    {% endif %}
+
     {% if page.share %}
-    <div class="row">
-    <hr />
     {% include share.html %}
-    </div>
     {% endif %}
   </div>
 </div>

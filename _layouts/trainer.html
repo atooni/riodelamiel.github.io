@@ -21,11 +21,12 @@
         {% include courses.html trainer=page.trainer lang=page.lang %}
       </div>
     </div>
+    {% if page.booking %}
+    {% include enquiry.html %}
+    {% endif %}
+
     {% if page.share %}
-    <div class="row">
-      <hr />
-      {% include share.html %}
-    </div>
+    {% include share.html %}
     {% endif %}
   </div>
 </div>

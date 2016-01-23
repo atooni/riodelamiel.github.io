@@ -1,5 +1,6 @@
 ---
 key: index
+booking: true
 ---
 == Rio de la Miel
 

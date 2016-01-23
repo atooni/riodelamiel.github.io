@@ -18,6 +18,14 @@ read_more:
   en: "Read more ..."
   de: "Weiter lesen ..."
 
+enquiry:
+  en: "Booking enquiry"
+  de: "Buchungsanfrage"
+
+enqsubject:
+  en: "Yoga course or Yoga vacation"
+  de: "Yoga Kurs oder Yoga Urlaub"
+
 month:
   en:
     m1  : "January"
