@@ -14,15 +14,14 @@ booking: true
 <div class="row" align="justify">
 ++++
 Yogaferien inmitten der Natur geben uns die Möglichkeit eine regenerative Entspannung für Körper, Geist und Seele zu erfahren.
-Die Stille und Reinheit der Natur, die uns umgibt wirkt ausgleichend und beruhigend. Yoga geht weit ueber die Asanas
-hinaus:
+Die Stille und Reinheit der Natur, die uns umgibt wirkt ausgleichend und beruhigend.
 
 Meditation, Pranayama, gesundes Essen und das Üben der Asanas unter der energiereichen Sonne Andalusiens lassen uns
 wieder fühlen welche Kraft in uns ist. Die tägliche Yoga-Praxis lässt uns schnell das spüren, was Yoga in uns wecken kann.
 
-Genau diese Kombination bieten wir in unserem Seminarhaus nahe der Kueste von Nerja in der Provinz Malaga an. Als reines
-Yogaseminarhaus haben wir einen einem festen Tagesablauf mit 2 Meditationen, 2 Yogastunden, 2 Mahlzeiten und genuegend Freizeit,
-um die naehere Umgebung und die reizvolle Landschaft Andalusiens zu entdecken.
+Genau diese Kombination bieten wir in unserem Seminarhaus nahe der Küste von Nerja in der Provinz Malaga an. Als reines
+Yogaseminarhaus haben wir einen einem festen Tagesablauf mit 2 Meditationen, 2 Yogastunden, 2 Mahlzeiten und genügend Freizeit,
+um die nähere Umgebung und die reizvolle Landschaft Andalusiens zu entdecken.
 
 ++++
 </div>
@@ -35,7 +34,7 @@ um die naehere Umgebung und die reizvolle Landschaft Andalusiens zu entdecken.
 image::/images/meditation.jpg[height=150, align=center]
 Die Meditation ist eine Erfahrung, die nur schwer zu beschreiben ist, denn sie ist reine Selbsterfahrung. Je tiefer die
 Meditation, um so mehr tritt die Bedeutung von Raum und Zeit in den Hintergrund. Der Alltag tritt in den Hintergrund
-und die Gedanken koennen sich mit dem reinen Sein im Hier und jetzt beschaeftigen.
+und die Gedanken können sich mit dem reinen Sein im Hier und Jetzt beschäftigen.
 ++++
 </div>
 ++++
@@ -43,9 +42,9 @@ und die Gedanken koennen sich mit dem reinen Sein im Hier und jetzt beschaeftige
 <div class="col-md-4" align="center">
 ++++
 image::/images/vegan.jpg[height=150, align=center]
-Vegane Ernaehrung ist eine konsequente Umsetzung des Yogagebotes des Ahimsa - der Gewaltlosigkeit. Allerdings ist auch
-aus rein gesundheitlichen und energetischen Aspekten eine vegane Ernaehrung sinnvoll. In unmittelbarer Umgebung von _Rio de la Miel_
-finden wir alle Produkte aus lokalem Anbau, die zu einer abwechslungstreichen und gesunden veganen Kueche gehoeren.
+Vegane Ernährung ist eine konsequente Umsetzung des Yogagebotes des Ahimsa - der Gewaltlosigkeit. Allerdings ist auch
+aus rein gesundheitlichen und energetischen Aspekten eine vegane Ernährung sinnvoll. In unmittelbarer Umgebung von _Rio de la Miel_
+finden wir alle Produkte aus lokalem Anbau, die zu einer abwechslungstreichen und gesunden veganen Küche gehören.
 ++++
 
 </div>
@@ -62,5 +61,3 @@ dass unsere Yogaferien sowohl für Anfänger als auch für Fortgeschrittene geei
 </div>
 </div>
 ++++
-
-

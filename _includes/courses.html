@@ -1,4 +1,5 @@
 {% assign courses = site.courses | where:"lang", page.lang %}
+{% assign act = 0 %}
 {% for course in courses %}
   {% assign meta = site.data.courses[course.course] %}
   {% assign dates = meta.start | sort %}
@@ -16,8 +17,11 @@
   {% endif %}
 
   {% if courseincl == "true" %}
+    {% capture act %}{{act | plus: 1 }}{% endcapture %}
+    {% if act == "2" || act == "0" %}
+    <div class="row">
+    {% endif %}
     <div class="col-md-4 col-md-offset-1">
-      <div class="row">
         <h3>{{ meta.title[page.lang] }}</h3>
         <h4>
           {% for t in meta.trainer %}
@@ -47,6 +51,9 @@
           <a href="{{ course.url }}" class="btn btn-info ads_right" role="button">{{ site.data.translation['read_more'][page.lang]}}</a>
         </p>
       </div>
-    </div>
+      {% if act == "2" %}
+      </div>
+      {% assign act = 0 %}
+      {% endif %}
   {% endif %}
 {% endfor %}
