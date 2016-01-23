@@ -14,9 +14,6 @@ de:
   contact:
     title: "Kontakt"
     url: "/pages/de/contact.html"
-  blog:
-    title: "Blog"
-    url: "/pages/de/blog.html"
   legal:
     title: "Impressum"
     url: "/pages/de/impressum.html"
@@ -37,9 +34,6 @@ en:
   contact:
     title: "Contact"
     url: "/pages/en/contact.html"
-  blog:
-    title: "Blog"
-    url: "/pages/en/blog.html"
   legal:
     title: "Legal"
     url: "/pages/en/impressum.html"

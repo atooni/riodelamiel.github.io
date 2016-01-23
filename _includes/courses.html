@@ -8,15 +8,15 @@
 
   {% if include.trainer %}
     {% if trainers contains include.trainer %}
-      {% assign courseincl = "true" %}
+      {% assign courseincl = meta.active %}
     {% else %}
       {% assign courseincl = "false" %}
     {% endif %}
   {% else %}
-  {% assign courseincl = "true" %}
+  {% assign courseincl = meta.active %}
   {% endif %}
 
-  {% if courseincl == "true" %}
+  {% if courseincl %}
     {% capture act %}{{act | plus: 1 }}{% endcapture %}
     {% if act == "2" || act == "0" %}
     <div class="row">

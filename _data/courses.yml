@@ -1,4 +1,5 @@
 yoga_001:
+  active: true
   start:
     - 25.03.2015
     - 25.03.2016
@@ -11,6 +12,7 @@ yoga_001:
     de: "Einführung ins Yoga"
 
 med_001:
+  active: true
   start:
     - 01.01.2015
   trainer:
@@ -23,6 +25,7 @@ med_001:
     de: "Einführung in die Meditation"
 
 cooking_001:
+  active: false
   start:
     - 25.03.2015
     - 01.04.2016
