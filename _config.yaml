@@ -26,6 +26,9 @@ collections:
     output: true
     permalink: /pages/:path.html
 
+spacing:
+  subtitle: "5"
+
 defaults:
   -
     scope:
