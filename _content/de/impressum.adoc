@@ -7,10 +7,10 @@ key: impressum
 
 Das Seminarhaus _Rio de la Miel_ liegt am Rande eines Naturschutzgebietes in der Nähe von Nerja in der Provinz Malaga.
 _Rio de la Miel_ wird ausschliesslich als Yogaseminarhaus geführt und bietet seinen Gästen einen ganzheitlichen Aufenthalt
-mit täglich 2 geführten Meditationen, 2 Yogastunden und zwei veganen Mahlzeiten (Brunch und Abendessen).
+mit täglich 2 Meditationen, 2 Yogastunden und zwei veganen Mahlzeiten (Brunch und Abendessen).
 
-Auf dem gesamten Gelände von _Rio de la Miel_ gilt absolutes Rauch- und Alkoholverbot. Alle Gäste erkennen mit ihrer
-Reservierung für die Dauer ihres Aufenthaltes diese Grundregel an.
+Auf dem gesamten Gelände von _Rio de la Miel_ gilt absolutes Rauch-, Alkohol- und Fleischverbot. Alle Gäste erkennen mit
+ihrer Reservierung für die Dauer ihres Aufenthaltes diese Grundregel an.
 
 ==== Yogaferien
 
@@ -22,8 +22,8 @@ Erfahrung wäre die Teilnahme an einer Meditation und einer Yogastunde am Tag w�
 
 Regelmäßig werden in _Rio de la Miel_ Yoga- und Meditationskurse mit erfahrenen Yogalehrern angeboten. Die Unterbringung
 der Kursteilnehmer erfolgt ebenfalls in _Rio de la Miel_. Sofern kein gesondertes Kursprogramm angeboten wird, stehen
-den Kursteilnehmern allle Veranstaltungen des normalen Tagesprogrammes in _Rio de la Miel_ offen.
-Ja nach Kurs finden zusätzliche Vortäge oder Workshops statt.
+den Kursteilnehmern allle Veranstaltungen des normalen Tagesprogrammes in _Rio de la Miel_ offen. Ja nach Kurs finden
+zusätzliche Vortäge oder Workshops statt.
 
 ==== Karmayoga
 
@@ -36,26 +36,23 @@ benötigen. In ruhigeren Phasen planen wir den weiteren Ausbau von _Rio de la Mi
 
 === Reservierung und Buchung
 
-. Die Reservierung des Afenthalts erfolgt ausschliesslich über die Webseite www.riodelamiel.eu, eine eMail an
-reservations@riodelamiel.eu oder telefonisch. Eine Reservierung sollte immer unter Angabe eines gewünschten
+. Die Reservierung des Afenthalts erfolgt ausschliesslich über die Webseite http://www.riodelamiel.eu, per
+link:mailto:reservations@riodelamiel.eu[eMail] oder link:tel:+34958199061[telefonisch]. Eine Reservierung sollte immer unter Angabe eines gewünschten
 Aufenthaltszeitraumes bzw. Seminars und einer Zimmerkategorie erfolgen.
 . Nach Eingang der Reservierung wird diese von _Rio de la Miel_ per eMail bestätigt. Nach Erhalt der
-Reservierungsbestätigung ist innerhalb von 5 Tagen eine Anzahlung von 20% des Gesamtpreises zu entrichten, so daß
-ausreichend Zeit gegeben ist, um Flüge für die Anreise zu buchen.
+Reservierungsbestätigung ist innerhalb von 5 Tagen eine Anzahlung von 25% des Gesamtpreises zu entrichten, so daß
+ausreichend Zeit gegeben ist, um Flüge für die An- und Abreise zu buchen.
 . Für einen Karmayogaaufenthalt reicht die schriftliche Bestätigung seitens _Rio de la Miel_ für die Verbindlichkeit aus.
 . Wird innerhalb von 5 Arbeitstagen die Anzahlung nicht geleistet, verfällt die Reservierung und muss erneut getätigt
 werden.
-. 4 Wochen vor Reiseantritt ist der restliche Betrag zu entrichten. Sollte die Zahlung nicht rechtzeitg erfolgen, behält sich
-_Rio de la Miel_ vor, die reservierten Plätze anderweitig zu vergeben.
+. Bei Ankunft sind die verbleibenden 75% des Reisepreises fällig.
 
 === Stornierungen
 
-. Die Reise kann vor Reiseantritt storniert werden. In diesem Fall erhält der Gast einen Gutschein für einen späteren
-Aufenthalt in _Rio de la Miel_ in Höhe der bisher geleisteten Zahlung abzüglich einer Bearbeitungsgebühr
-.. bis 4 Wochen vor Reiseantritt 50€
-.. bis 1 Tag vor Reiseantritt 100€
-. Wird die Reise ohne Angabe von Gründen nicht angetreten, so besteht kein Anspruch auf eine Rückerstattung. Wir
-empfehlen den Abschluß einer Reisekostenversicherung, um krankheitsbedingte Reiseausfälle abzudecken.
+. Die Reise kann bis 4 Wochen vor Reiseantritt storniert werden. In diesem Fall verfällt die geleistete Anzahlung.
+Ein Recht auf Rückerstattung besteht ausdrücklich nicht.
+. Bei einer späteren Stornierung ist der volle Reisepreis zu entrichten. Wir empfehlen den Abschluss einer
+Reiserücktrittsversicherung, um krankheitsbedingte Ausfälle abzudecken.
 . Sofern ein Kurs auf Grund mangelnder Anmeldungen nicht durchgeführt werden kann, kann der Gast zwischen einer
 kostenfreien Stornierung und einer Umwandlung in einen Yogaaufenthalt wählen. Im Falle der Umwandlung werden eventuell
 zuviel gezahlte Kursgebühren zurück erstattet.
@@ -115,29 +112,25 @@ Fall der unverlangten Zusendung von Werbeinformationen, z.B. durch Spam-Mails, v
 |===
 |*Verantwortlich für den Inhalt*
 |
-|WoQ - Way of Quality GmbH
+|Godea Vida S.L.U.
 
 |*Geschäftsführer*
 |
-|Andreas Gies
+|Karin Gies
 
 |*eMail*
 |
-|andreas@wayofquality.de
+|mailto:info@wayofquality.de
 
 |*Telefon*
 |
-|+49 151 23470823
+|+34 958 199 061
 
-|*Fax*
+|*C.I.F.*
 |
-|+49 1805 006534 2114
-
-|*Handelsregister*
-|
-|AG Regensburg	HRB 14542
+|B93426559
 
 |*Ust.-Id.*
 |
-|DE274771254
+|ESB93426559
 |===

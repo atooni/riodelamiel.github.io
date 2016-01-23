@@ -6,13 +6,13 @@ key: impressum
 
 === The Seminar House
 
-The seminar house _Rio de la Miel_ is is at the edge of the nature reserve called Sierra de Tejeda. The next bigger
+The seminar house _Rio de la Miel_ is is at the edge of the nature reserve called _Sierra Tejeda_. The next bigger
 village is Nerja in the province of Malaga. _Rio de la Miel_ exclusively offers Yoga vacations and seminars
 and offers a holistic experience to its guests. The daily Yoga practice includes 2 meditations, 2 Yoga lessons and
 2 vegan meals (brunch and diner).
 
-_Rio de la Miel_ is completely smoke- and alcohol free. All guests accept this basic rule for their stay at _Rio de la
-Miel_ when they submit their reservation.
+_Rio de la Miel_ is completely smoke-, alcohol- and meat free. All guests accept this basic rule for their stay at
+_Rio de la Miel_ when they submit their reservation.
 
 ==== Yoga vacation
 
@@ -31,36 +31,33 @@ is a course specific class or presentation.
 ==== Karma Yoga
 
 We will need help to run _Rio de la Miel_ and invite people who interested to help us to live with us for a while. We
-offer free food, shelter, meditation and one Yoga lesson a day. We would expect you to help us 4-6 hours a day in return.
+offer free food, shelter, meditation and one Yoga lesson a day. We would expect you to help us ~4 hours a day in return.
 
 Once we have opened for seminars we will mainly need help in the kitchen, with cleaning and in the garden. In quiet phases
 we are planning to make _Rio de la Miel_ even more beautiful.
 
-If you are interested to come and help, please get in contact with us and let us know for when and for how long you are
-interested to come.
+If you are interested to come and help, please link:mailto:info@riodelamiel.eu[get in contact] with us and let us know for when
+and for how long you are interested to come.
 
 === Reservations
 
-. Reservations are accepted via the web site www.riodelamiel.eu, eMail to reservations@riodelamiel.eu, phone and fax.
-All reservations should specify the start and the end date of the stay and any courses the guest wants to participate in.
+. Reservations are accepted via the web site www.riodelamiel.eu, link:mailto:reservations@riodelamiel.eu[eMail] or by
+link:tel:+34958199061[phone]. All reservations should specify the start and the end date of the stay and any courses
+the guest wants to participate in.
 . All reservations will be answered by _Rio de la Miel_ with either a confirmation or a deinal in case the course is
 already sold out.
-. In case a reservation is confirmed it will be guaranteed for 7 days. After 7 days a deposit of 20% of the total
-price must be made to make the guarantee permanent. This should give enough time to arrange flights for the visit.
+. In case a reservation is confirmed it will be guaranteed for 5 days. After 5 days a deposit of 25% of the total
+price must be made to secure the booking. This should give enough time to arrange the flights for the visit.
 . For Karma Yogis a confirmation from _Rio de la Miel_ is sufficient for a permanent guarantee. We would ask Karmayogis
 to let us know as early as possible if they can't come as planned.
-. If the deposit is not made within 7 days, the reservation is forfeited and must be redone.
-. 4 weeks before the seminar or vacation the rest of the total price must be paid. If the payment is not made in time,
-_Rio de la Miel_ has the right to offer the reserved slots again.
+. If the deposit is not made within 5 days, the reservation is forfeited and must be redone.
+. The remaining balance is payable upon arrival.
 
 === Cancellations
 
-. The stay at _Rio de la Miel_ can be cancelled until 1 day before the stay. With a cancellation the guest will receive
-a voucher for a later stay in _Rio de la Miel_ equivalent to the amount paid to date less a cancellation fee of
-.. 50€ if the vacation should have started in more than 4 weeks
-.. 100€ if the vacation should have started in less than 4 weeks.
-. If the guest does not arrive to a booked vacation without notice, the paid amount up to date is forfeited. We recommend
-to consider a travel insurance to cover for cases of illnes etc.
+. The stay at _Rio de la Miel_ can be cancelled until 4 weeks before the stay. In that case the deposit is forfeited.
+. If the stay is cancelled afterwards, the full amount of the stay is due. We recommendto consider a travel insurance
+to cover for cases of illnes etc.
 . In case a course has to be cancelled due to lack of interest, the guest can choose between a cancellation free of charge
 and Yoga vacations at _Rio de la Miel_. In any of these cases any overpaid amount will be transferred to the guests bank
 account or the credit card used for pyayments.
@@ -96,7 +93,7 @@ We will not gather nor store personal information without the consent of the use
 consent to store the data of the form for internal processes. _Rio de la Miel_ will only use the data for its own
 purposes and will not pass the data to any 3rd party.
 
-The contact data of _Rio de la Miel_ may not be used for marketing purposes unless we have explicitly agrred to do so.
+The contact data of _Rio de la Miel_ may not be used for marketing purposes unless we have explicitly agreed to do so.
 
 ---
 
@@ -104,29 +101,25 @@ The contact data of _Rio de la Miel_ may not be used for marketing purposes unle
 |===
 |*Responsible for the content*
 |
-|WoQ - Way of Quality GmbH
+|Godea Vida S.L.U.
 
 |*General Manager*
 |
-|Andreas Gies
+|Karin Gies
 
 |*eMail*
 |
-|andreas@wayofquality.de
+|info@riodelamiel.eu
 
 |*Telefon*
 |
-|+49 151 23470823
+|link:tel:+34958199061[+34 (958) 199 061]
 
-|*Telefax*
+|*C.I.F.*
 |
-|+49 1805 006534 2114
-
-|*Registered*
-|
-|AG Regensburg	HRB 14542
+|B93426559
 
 |*VAT-Id.*
 |
-|DE274771254
+|ESB93426559
 |===
