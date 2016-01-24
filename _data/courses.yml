@@ -59,7 +59,7 @@ pran_001:
     de: "Pranayama"
 
 cooking_001:
-  active: true
+  active: false
   price:
     dorm:   740
     twin:   880

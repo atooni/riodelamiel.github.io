@@ -2,7 +2,7 @@
 key: contact
 ---
 === Sprecht uns an
-Für Fragen rund um euren Aufenthalt und eure Seminare in Rio de la Miel wir euch gerne per Telefon oder
+Für Fragen rund um euren Aufenthalt und eure Seminare in Rio de la Miel wir euch gerne per link:tel:0034958199061[Telefon] oder
 mailto:info@riodelamiel.eu[eMail] zur Verfügung.
 
 Wir helfen nach Kräften bei der Organisation der Anreise oder mit Informationen über zusätzliche Angebote in der

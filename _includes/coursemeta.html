@@ -6,6 +6,7 @@
   <a href="/trainer/{{page.lang}}/{{t}}.html">{{trainer.name}}</a>
   {% endfor %}
 </h4>
+<h4>- {{ site.data.translation['from'][page.lang] }} {{ meta.price.dorm}}€</h4>
 <ul>
   {% capture today %}{{ 'now' | date: '%Y-%0m-%d' }}{% endcapture %}
   {% assign dates = meta.start | sort %}

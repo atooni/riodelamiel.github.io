@@ -8,12 +8,12 @@ de:
   vacation:
     title: "Yogaferien"
     url: "/pages/de/vacation.html"
-  karma:
-    title: "Karma Yoga"
-    url: "/pages/de/karma.html"
   about:
     title: "Über uns"
     url: "/pages/de/about.html"
+  galery:
+    title: "Galerie"
+    url:   "/pages/de/galery.html"
   contact:
     title: "Kontakt"
     url: "/pages/de/contact.html"
@@ -31,12 +31,12 @@ en:
   vacation:
     title: "Yoga Vacations"
     url: "/pages/en/vacation.html"
-  karma:
-    title: "Karma Yoga"
-    url: "/pages/en/karma.html"
   about:
     title: "About us"
     url: "/pages/en/about.html"
+  galery:
+    title: "Galerie"
+    url:   "/pages/de/galery.html"
   contact:
     title: "Contact"
     url: "/pages/en/contact.html"

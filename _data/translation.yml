@@ -22,6 +22,10 @@ enquiry:
   en: "Booking enquiry"
   de: "Buchungsanfrage"
 
+from:
+  en: "from"
+  de: "Ab"
+
 enqsubject:
   en: "Yoga course or Yoga vacation"
   de: "Yoga Kurs oder Yoga Urlaub"

@@ -1,40 +1,8 @@
 ---
 key: impressum
 ---
-== Angebote
 
-=== Das Seminarhaus
-
-Das Seminarhaus _Rio de la Miel_ liegt am Rande eines Naturschutzgebietes in der Nähe von Nerja in der Provinz Malaga.
-_Rio de la Miel_ wird ausschliesslich als Yogaseminarhaus geführt und bietet seinen Gästen einen ganzheitlichen Aufenthalt
-mit täglich 2 Meditationen, 2 Yogastunden und zwei veganen Mahlzeiten (Brunch und Abendessen).
-
-Auf dem gesamten Gelände von _Rio de la Miel_ gilt absolutes Rauch-, Alkohol- und Fleischverbot. Alle Gäste erkennen mit
-ihrer Reservierung für die Dauer ihres Aufenthaltes diese Grundregel an.
-
-==== Yogaferien
-
-Yogaferien in _Rio de la Miel_ können jederzeit in beliebiger Länge gebucht werden. Den Gästen der Yogaferien stehen
-alle Meditationen und Yogastunden offen. Die Teilnahme ist nicht verpflichtend, jedoch im Sinne einer gemeinsamen
-Erfahrung wäre die Teilnahme an einer Meditation und einer Yogastunde am Tag wünschenswert.
-
-==== Kurse
-
-Regelmäßig werden in _Rio de la Miel_ Yoga- und Meditationskurse mit erfahrenen Yogalehrern angeboten. Die Unterbringung
-der Kursteilnehmer erfolgt ebenfalls in _Rio de la Miel_. Sofern kein gesondertes Kursprogramm angeboten wird, stehen
-den Kursteilnehmern allle Veranstaltungen des normalen Tagesprogrammes in _Rio de la Miel_ offen. Ja nach Kurs finden
-zusätzliche Vortäge oder Workshops statt.
-
-==== Karmayoga
-
-Je nach Verfügbarkeit können Yoga-Interessierte gegen Kost, Logis, Meditation und eine Yogastunde täglich in
-_Rio de la Miel_ helfen. Die Form der Hilfe richtet sich nach aktuellem Bedarf und Fähigkeiten. Die Mitarbeit pro Tag
-beträgt ca. 4 Stunden.
-
-Wähend des Seminarbetriebes werden wir in erster Linie Hilfe bei der Reinigung, in der Küche und bei der Gästebetreuung
-benötigen. In ruhigeren Phasen planen wir den weiteren Ausbau von _Rio de la Miel_.
-
-=== Reservierung und Buchung
+== Reservierung und Buchung
 
 . Die Reservierung des Afenthalts erfolgt ausschliesslich über die Webseite http://www.riodelamiel.eu, per
 link:mailto:reservations@riodelamiel.eu[eMail] oder link:tel:+34958199061[telefonisch]. Eine Reservierung sollte immer unter Angabe eines gewünschten
@@ -113,6 +81,18 @@ Fall der unverlangten Zusendung von Werbeinformationen, z.B. durch Spam-Mails, v
 |*Verantwortlich für den Inhalt*
 |
 |Godea Vida S.L.U.
+
+|
+|
+|Plaza Cavana 5
+
+|
+|
+|29780 Nerja
+
+|
+|
+|Spanien
 
 |*Geschäftsführer*
 |

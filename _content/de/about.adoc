@@ -5,11 +5,10 @@ key: about
 <div class="row">
 ++++
 
-
 ++++
 <div align="center">
 ++++
-== Ashramleiter
+== Leiter des Seminarhauses
 ++++
 </div>
 ++++
@@ -28,7 +27,12 @@ Yoga in seiner schlichten aber doch so tiefen Weisheit hat sie schon immer faszi
 
 Karin Gies unterrichtet mit Leidenschaft und Hingabe. Sie bestärkt Ihre Schüler in ihrem Streben, das eigene Potenzial vollständig zu entdecken und zu erleben.
 
-2014 hat sie beschlossen, sich nunmehr auf ganzheitliches Yoga zu konzentrieren und gemeinsam mit ihrem Mann Andreas in Rio de la Miel Yogaretreats zu organisieren und durchzuführen.
+2014 hat sie beschlossen, sich nunmehr auf ganzheitliches Yoga zu konzentrieren und gemeinsam mit ihrem Mann Andreas das Seminarhaus _Rio de la Miel_ zu gründen
+ dort Yogaretreats zu organisieren und durchzuführen.
+
+++++
+<button class="btn btn-primary"><a href="/trainer/{{ page.lang }}/karin.html">{{ site.data.translation['current_courses'][page.lang]}}</a></button>
+++++
 
 [role="col-md-6"]
 == Andreas Gies
@@ -36,36 +40,26 @@ Karin Gies unterrichtet mit Leidenschaft und Hingabe. Sie bestärkt Ihre Schüle
 [role="ads_left"]
 image::/images/trainer/andreas.jpg[height=400, align=center]
 
-Andreas Gies hat sich von der Yogabegeisterung seiner Frau anstecken lassen und praktiziert ebenfalls seit mehreren Jahren. 2006 hat er seine Yogalehrerausbildung in der Tradition von Swami Sivananda absolviert und unterrichtet seither, wann immer es seine Zeit erlaubt.
+Andreas Gies hat sich von der Yogabegeisterung seiner Frau anstecken lassen und praktiziert ebenfalls seit mehreren Jahren.
+2006 hat er seine Yogalehrerausbildung in der Tradition von Swami Sivananda absolviert und unterrichtet seither, wann
+immer es seine Zeit erlaubt.
 
-Nach seinem Informatikstudium ist er seit über 20 Jahren als Berater in internationalen Projekten tätig und hat 2010 die Way of Quality GmbH gegründet, die sich in erster Linie um qualitätsorientierte Softwareentwicklung und den Einsatz von Open Source Technologien in grossen Projekten kümmert.
+Nach seinem Informatikstudium ist er seit über 20 Jahren als Berater in internationalen Projekten tätig und hat 2010 die
+Way of Quality GmbH gegründet, die sich in erster Linie um qualitätsorientierte Softwareentwicklung und den Einsatz von
+Open Source Technologien in grossen Projekten kümmert.
 
-In dieser Tätigkeit als IT-Berater hat er immer wieder bemerkt, wie einfache Yogapraktiken eine Verbesserung im beruflichen Alltag bewirken können. Gerade wenn es darum geht, neue Technologien zu erlernen, hat sich eine regelmässige Yogapraxis als förderlich erwiesen.
+In dieser Tätigkeit als IT-Berater hat er immer wieder bemerkt, wie einfache Yogapraktiken eine Verbesserung im
+beruflichen Alltag bewirken können. Gerade wenn es darum geht, neue Technologien zu erlernen, hat sich eine regelmässige
+Yogapraxis als förderlich erwiesen.
 
-Aus diesen Erfahrungen hat er ein Kurskonzept entwickelt, welches eine tägliche Yogapraxis, eine ausgewogene Ernährung und das Erlernen neuer Technologien miteinander in Einklang bringt.
+Aus diesen Erfahrungen hat er ein Kurskonzept entwickelt, welches eine tägliche Yogapraxis, eine ausgewogene Ernährung
+und das Erlernen neuer Technologien miteinander in Einklang bringt.
 
-Die kombinierten IT/Yoga Kurse werden ab Sommer 2016 Bestandteil des Kursprogrammes in Rio de la Miel sein.
-
-++++
-</div>
-++++
-
-
-++++
-<div align="center">
-++++
-
-== Impressionen
+Diese kombinierten IT/Yoga Kurse werden ab Sommer 2016 Bestandteil des Kursprogrammes in Rio de la Miel sein.
 
 ++++
-</div>
+<button class="btn btn-primary"><a href="/trainer/{{ page.lang }}/andreas.html">{{ site.data.translation['current_courses'][page.lang]}}</a></button>
 ++++
-
-image::/images/impressionen/meditationyoga.jpg[height=600, align=center]
-
-image::/images/impressionen/yoga3.jpg[height=600, align=center]
-
-image::/images/impressionen/meditation4.jpg[height=600, align=center]
 
 ++++
 </div>
