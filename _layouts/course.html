@@ -11,18 +11,50 @@
   <div class="container">
     <div class="row">
       <div class="col-md-10 page-body">
-        {% include coursemeta.html %}
+        {% include coursemeta.html overview=false %}
         {% if meta.image %}
         <img src="/images/courses/{{meta.image}}" class="ads_left" />
         {% endif %}
         {{content}}
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-10 page-body">
-        <a href="/pages/{{page.lang}}/courses.html">{{site.data.translation['current_courses'][page.lang]}}</a>
-      </div>
-    </div>
+    <table class="timetable tableblock" align="center">
+      <tr>
+        <th colspan="3" class="tableblock">Bei Unterbringung im</th>
+        <th class="tableblock" align="center">pro Person</th>
+      </tr>
+      <tr>
+        <td width="10px">
+          <img src="/images/dot.png">
+        </td>
+        <td>{{ site.data.translation['dorm'][page.lang] }}</td>
+        <td width="100px">
+          <img src="/images/dot.png">
+        </td>
+        <td align="center">{{ meta.price.dorm}}€</td>
+      </tr>
+      <tr>
+        <td width="10px">
+          <img src="/images/dot.png">
+        </td>
+        <td>{{ site.data.translation['twin'][page.lang] }}</td>
+        <td width="100px">
+          <img src="/images/dot.png">
+        </td>
+        <td align="center">{{ meta.price.twin}}€</td>
+      </tr>
+      <tr>
+        <td width="10px">
+          <img src="/images/dot.png">
+        </td>
+        <td>{{ site.data.translation['single'][page.lang] }}</td>
+        <td width="100px">
+          <img src="/images/dot.png">
+        </td>
+        <td align="center">{{ meta.price.single}}€</td>
+      </tr>
+    </table>
+
     {% include enquiry.html %}
     {% include share.html %}
   </div>

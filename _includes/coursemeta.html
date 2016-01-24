@@ -6,13 +6,15 @@
   <a href="/trainer/{{page.lang}}/{{t}}.html">{{trainer.name}}</a>
   {% endfor %}
 </h4>
+{% if include.overview %}
 <h4>- {{ site.data.translation['from'][page.lang] }} {{ meta.price.dorm}}€</h4>
-<table class="timetable">
+{% endif %}
+<table class="timetable tableblock">
   <tr>
     <th colspan="11" class="tableblock">{{ site.data.translation['course_dates'][page.lang]}}</th>
   </tr>
   {% capture today %}{{ 'now' | date: '%Y-%0m-%d' }}{% endcapture %}
-  {% assign dates = meta.start | sort %}
+  {% assign dates = meta.start %}
   {% assign count = 0 %}
   {% for date_s in dates %}
   <tr>
@@ -55,3 +57,4 @@
   </tr>
   {% endif %}
 </table>
+

@@ -30,6 +30,16 @@ from:
   en: "from"
   de: "Ab"
 
+dorm:
+  en: "Dormitory"
+  de: "Mehrbettzimmer"
+twin:
+  en: "Double Room"
+  de: "Zweibettzimmer"
+single:
+  en: "Single Room"
+  de: "Einzelzimmer"
+
 enqsubject:
   en: "Yoga course or Yoga vacation"
   de: "Yoga Kurs oder Yoga Urlaub"
