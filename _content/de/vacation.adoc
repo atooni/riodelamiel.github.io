@@ -24,15 +24,6 @@ gerne an die Yogapraxis heran.
 </div>
 ++++
 
-=== Karmayoga
-
-Je nach Verfügbarkeit können Yoga-Interessierte gegen Kost, Logis, Meditation und eine Yogastunde täglich in
-_Rio de la Miel_ helfen. Die Form der Hilfe richtet sich nach aktuellem Bedarf und Fähigkeiten. Die Mitarbeit pro Tag
-beträgt ca. 4 Stunden.
-
-Wähend des Seminarbetriebes werden wir in erster Linie Hilfe bei der Reinigung, in der Küche und bei der Gästebetreuung
-benötigen. In ruhigeren Phasen planen wir den weiteren Ausbau von _Rio de la Miel_.
-
 ++++
 <div class="row col-md-12">
   <h3>Unser Tagesprogramm</h3>
@@ -130,3 +121,13 @@ Gesamtbetrages fällig, die restliche Summe ist bei der Anreise zu entrichten.
 ++++
 </div>
 ++++
+
+=== Karmayoga
+
+Je nach Verfügbarkeit können Yoga-Interessierte gegen Kost, Logis, Meditation und eine Yogastunde täglich in
+_Rio de la Miel_ helfen. Die Form der Hilfe richtet sich nach aktuellem Bedarf und Fähigkeiten. Die Mitarbeit pro Tag
+beträgt ca. 4 Stunden.
+
+Wähend des Seminarbetriebes werden wir in erster Linie Hilfe bei der Reinigung, in der Küche und bei der Gästebetreuung
+benötigen. In ruhigeren Phasen planen wir den weiteren Ausbau von _Rio de la Miel_.
+^
