@@ -1,0 +1,5 @@
+---
+key: karma
+booking: true
+---
+== Karma Yoga

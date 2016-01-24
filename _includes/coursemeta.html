@@ -1,0 +1,23 @@
+<h3>{{ meta.title[page.lang] }}</h3>
+<h4>
+  {% for t in meta.trainer %}
+  {% unless forloop.first %}-{% endunless %}
+  {% assign trainer = site.data.trainer[t] %}
+  <a href="/trainer/{{page.lang}}/{{t}}.html">{{trainer.name}}</a>
+  {% endfor %}
+</h4>
+<ul>
+  {% capture today %}{{ 'now' | date: '%Y-%0m-%d' }}{% endcapture %}
+  {% assign dates = meta.start | sort %}
+  {% assign count = 0 %}
+  {% for date_s in dates %}
+  {% capture date %}{{ date_s | date: '%Y-%0m-%d'}}{% endcapture %}
+  {% if date >= today %}
+  <li>{{date | date: '%0d.%0m.%Y'}} : {{ meta.duration }} {{site.data.translation['course_days'][page.lang]}}</li>
+  {% capture count %}{{count | plus: 1 }}{% endcapture %}
+  {% endif %}
+  {% endfor %}
+  {% if count == 0 %}
+  <li>{{ site.data.translation['course_nodates'][page.lang]}}</li>
+  {% endif %}
+</ul>

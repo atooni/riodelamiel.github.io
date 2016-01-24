@@ -11,7 +11,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-10 page-body">
-        <h2>{{page.title}}</h2>
+        {% include coursemeta.html %}
         {% if meta.image %}
         <img src="/images/courses/{{meta.image}}" class="ads_left" />
         {% endif %}
@@ -23,13 +23,8 @@
         <a href="/pages/{{page.lang}}/courses.html">{{site.data.translation['current_courses'][page.lang]}}</a>
       </div>
     </div>
-    {% if page.booking %}
     {% include enquiry.html %}
-    {% endif %}
-
-    {% if page.share %}
     {% include share.html %}
-    {% endif %}
   </div>
 </div>
 {% include footer.html %}
