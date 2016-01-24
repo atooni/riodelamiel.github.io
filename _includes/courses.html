@@ -24,7 +24,7 @@
         {% if meta.image %}
         <img src="/images/courses/{{meta.image}}" class="ads_left" width="150"/>
         {% endif %}
-        {{ course.content | strip_html | truncatewords: 50 }}
+        {{ course.content | strip_html | truncatewords: 30 }}
         <p>
           <a href="{{ course.url }}" class="btn btn-primary ads_right" role="button">{{ site.data.translation['read_more'][page.lang]}}</a>
         </p>

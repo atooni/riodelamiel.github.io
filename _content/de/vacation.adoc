@@ -56,7 +56,7 @@ benötigen. In ruhigeren Phasen planen wir den weiteren Ausbau von _Rio de la Mi
       <td align="center" width="25px">-</td>
       <td align="center">11:30</td>
       <td width="30px" />
-      <td>Fruehstueck</td>
+      <td>Frühstück</td>
     </tr>
     <tr>
       <td align="center">17:30</td>
@@ -91,21 +91,21 @@ am Tag.
 
 === Mehrbettzimmer
 
-Unsere Mehrbettzimmer sind einfach gehalten und bieten fuer jeden Teilnehmer ein Bett und eine Ablage fuer persönliche
-Gegenstände und Kleidung. Wertgegenstände koennen in einem Safe an der Rezeption hinterlegt werden. Gäste in den
+Unsere Mehrbettzimmer sind einfach gehalten und bieten für jeden Teilnehmer ein Bett und eine Ablage für persönliche
+Gegenstände und Kleidung. Wertgegenstände können in einem Safe an der Rezeption hinterlegt werden. Gäste in den
 Mehrbettzimmern nutzen eines der gemeinschaftlichen Bäder, die alle mit Dusche und WC ausgestattet sind.
 
 === Doppelzimmer / Zweibettzimmer
 
-Die Doppelzimmer sind mit zwei Betten ausgestattet und bieten ausreichend Platz fuer persönliche Gegenstaende und
-Kleidung. Alle unsere Doppelzimmer verfügen ueber ein eigenes Bad mit Dusche und WC. Bei Einzelbuchungen im
+Die Doppelzimmer sind mit zwei Betten ausgestattet und bieten ausreichend Platz für persönliche Gegenstände und
+Kleidung. Alle unsere Doppelzimmer verfügen über ein eigenes Bad mit Dusche und WC. Bei Einzelbuchungen im
 Zweibettzimmer kann ein weiterer Gast mit im Zimmer untergebracht werden.
 
 Auf Wunsch kann ein Zweibettzimmer zur Einzelnutzung gebucht werden.
 
 === Einzelzimmer
 
-Das Einzelzimmer ist etwas kleiner geschnitten und bietet ein komfortables Bett und ausreichend Platz fuer persönliche
+Das Einzelzimmer ist etwas kleiner geschnitten und bietet ein komfortables Bett und ausreichend Platz für persönliche
 Gegenstände und Kleidung. Ausserdem bietet ein bodentiefes Fenster viel Licht und einen schönen Blick ins Tal. Das
 Einzelzimmer verfügt über ein eigenes Bad mit Dusche und WC.
 

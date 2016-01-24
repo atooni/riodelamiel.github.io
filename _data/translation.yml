@@ -22,6 +22,14 @@ read_more:
   en: "Read more ..."
   de: "Weiter lesen ..."
 
+roomtype:
+  en: "Staying in"
+  de: "Bei Unterbringung im"
+
+per_person:
+  en: "per person"
+  de: "pro Person"
+
 enquiry:
   en: "Booking enquiry"
   de: "Buchungsanfrage"
