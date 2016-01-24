@@ -6,6 +6,10 @@ course_overview:
   en: "All Courses"
   de: "Alle Kurse"
 
+course_dates:
+  en: "Current Schedule"
+  de: "Aktuelle Termine"
+
 course_nodates:
   en: "Not currently scheduled"
   de: "Keine aktuellen Termine"
