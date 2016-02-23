@@ -6,7 +6,7 @@ key: galery
 <div align="center">
 ++++
 
-== Impressionen
+== Impressions
 
 ++++
 </div>

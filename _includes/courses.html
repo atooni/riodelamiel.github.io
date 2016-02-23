@@ -1,5 +1,4 @@
 {% assign courses = site.courses | where:"lang", page.lang %}
-{% assign act = 0 %}
 {% for course in courses %}
   {% assign meta = site.data.courses[course.course] %}
   {% assign trainers = meta.trainer | join:',' %}
@@ -15,23 +14,15 @@
   {% endif %}
 
   {% if courseincl %}
-    {% capture act %}{{act | plus: 1 }}{% endcapture %}
-    {% if act == "2" || act == "0" %}
-    <div class="row">
-    {% endif %}
-    <div class="col-md-4 col-md-offset-1">
-        {% include coursemeta.html overview=true %}
-        {% if meta.image %}
-        <img src="/images/courses/{{meta.image}}" class="ads_left" width="150"/>
-        {% endif %}
-        {{ course.content | strip_html | truncatewords: 30 }}
-        <p>
-          <a href="{{ course.url }}" class="btn btn-primary ads_right" role="button">{{ site.data.translation['read_more'][page.lang]}}</a>
-        </p>
-      </div>
-      {% if act == "2" %}
-      </div>
-      {% assign act = 0 %}
+    <div class="col-md-8 col-md-offset-2">
+      {% include coursemeta.html overview=true %}
+      {% if meta.image %}
+      <img src="/images/courses/{{meta.image}}" class="ads_left" width="150"/>
       {% endif %}
+      {{ course.content | strip_html | truncatewords: 30 }}
+      <p>
+        <a href="{{ course.url }}" class="btn btn-primary ads_right" role="button">{{ site.data.translation['read_more'][page.lang]}}</a>
+      </p>
+    </div>
   {% endif %}
 {% endfor %}

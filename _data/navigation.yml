@@ -36,7 +36,7 @@ en:
     url: "/pages/en/about.html"
   galery:
     title: "Galery"
-    url:   "/pages/de/galery.html"
+    url:   "/pages/en/galery.html"
   contact:
     title: "Contact"
     url: "/pages/en/contact.html"

@@ -82,35 +82,23 @@ Fall der unverlangten Zusendung von Werbeinformationen, z.B. durch Spam-Mails, v
 |
 |Godea Vida S.L.U.
 
-|
-|
-|Plaza Cavana 5
-
-|
-|
-|29780 Nerja
-
-|
-|
-|Spanien
-
-|*Geschäftsführer*
+|*General Manager*
 |
 |Karin Gies
 
 |*eMail*
 |
-|mailto:info@wayofquality.de
+|info@riodelamiel.eu
 
 |*Telefon*
 |
-|+34 958 199 061
+|link:tel:+34958199061[+34 (958) 199 061]
 
 |*C.I.F.*
 |
 |B93426559
 
-|*Ust.-Id.*
+|*VAT-Id.*
 |
 |ESB93426559
 |===
