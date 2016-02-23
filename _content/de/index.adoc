@@ -9,8 +9,6 @@ booking: true
 == Yogakurse und -ferien unter der Sonne Andalusiens
 ++++
 </div>
-++++
-++++
 <div class="row" align="justify">
 ++++
 Yogaferien inmitten der Natur geben uns die Möglichkeit eine regenerative Entspannung für Körper, Geist und Seele zu erfahren.
@@ -37,8 +35,6 @@ Meditation, um so mehr tritt die Bedeutung von Raum und Zeit in den Hintergrund.
 und die Gedanken können sich mit dem reinen Sein im Hier und Jetzt beschäftigen.
 ++++
 </div>
-++++
-++++
 <div class="col-md-4" align="center">
 ++++
 image::/images/vegan.jpg[height=150, align=center]

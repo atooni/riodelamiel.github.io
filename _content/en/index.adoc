@@ -5,14 +5,31 @@ booking: true
 ++++
 <div class="row" align="center">
 ++++
-== You will find in our seminar house:
+== Yoga courses and Yoga Vacations beneath the Andalusian sun
+++++
+</div>
+<div class="row" align="justify">
+++++
+Yoga vactions close to the beautiful nature park Sierra Tejada allows us to experience a
+deep relaxation for the body, the mind and the soul. Remoting ourselves from modern
+communication leads us back to balance and peace in the mind.
+
+Meditation, Pranayama, healthy food and  Asanas under the andalusian sun let us get back in contact with
+our inner peace and strength. A daily Yoga practice teaches us how Yoga can enrich our daily life.
+
+Our guests will find exactly that combination in our seminar house close to the andalusian coast in the
+vicinity of Nerja in the province of Malaga. In our daily Yoga routine we offer a fixed daily schedule
+with 2 meditations, 2 Yoga classes, 2 vegan meals and sufficient free time to explore the nature around
+the seminar house and the beautiful landscapes of Andalucia.
 
 ++++
+</div>
 <div class="col-md-4" align="center">
 ++++
 image::/images/meditation.jpg[height=150, align=center]
-By a regular morning mediation you will discover that you can step out of the daily hectic routine. Take that experience back
-home and apply it during your day-to-day schedule.
+The experience of meditation is hard to describe and one has to experience it personally. The deeper the
+meditation the less important becomes the meaning of space and time. The daily routine also becomes less
+important and the mind can focus on the bliss of the present moment.
 ++++
 </div>
 ++++
@@ -20,21 +37,21 @@ home and apply it during your day-to-day schedule.
 <div class="col-md-4" align="center">
 ++++
 image::/images/vegan.jpg[height=150, align=center]
-We try to minimise our environmental foot print and therefor the seminar house maintains a vegan kitchen. We buy the majority
-of our ingredients from local farmers and provide a great range of seasonal vegan dishes.
+A vegan diet consequently applies the Yoga principle of Ahimsa - the renunciation of violence. On top a vegan diet
+also makes sense to maintain your personal health and energy. Around _Rio de la Miel_ we find all the local
+products we need to provide a rich and healthy vegan diet for our guests.
 ++++
-
 </div>
-++++
-
-++++
 <div class="col-md-4" align="center">
 ++++
 image::/images/yoga.jpg[height=150, align=center]
-In Yoga we made many positive experiences meeting other people and cultures. We would like to share those experiences
-and introduce you to a rich system of pholosophies here in the mountains of Andalucia.
+Our Yogaclasses are based on 12 basic postures (Asanas) that can be found in Hathayoga. Breathing exercises (Pranayama),
+meditation and relaxation help us to find the right balance in our Yoga practice. The exercises are beneficial for
+Yogabeginners but also have challenges for more experienced Yoga practitioners.
 ++++
 </div>
 ++++
+
+
 
 

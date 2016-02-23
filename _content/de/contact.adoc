@@ -14,7 +14,7 @@ C.I.F. ESB93426559 +
 Plaza Cavana 5 +
 29780 Nerja +
 Spain +
-mailto:info@riodelamiel.eu
+mailto:info@riodelamiel.eu[info@riodelamiel.eu]
 
 === Anschrift des Seminarhauses
 Rio de la Miel, Province of Malaga,  Spain. +
