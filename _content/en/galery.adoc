@@ -1,0 +1,20 @@
+---
+key: galery
+---
+
+++++
+<div align="center">
+++++
+
+== Impressions
+
+++++
+</div>
+++++
+
+image::/images/impressionen/meditationyoga.jpg[height=600, align=center]
+
+image::/images/impressionen/yoga3.jpg[height=600, align=center]
+
+image::/images/impressionen/meditation4.jpg[height=600, align=center]
+

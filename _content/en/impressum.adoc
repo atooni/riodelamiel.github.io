@@ -1,0 +1,88 @@
+---
+key: impressum
+---
+
+== Reservations
+
+. Reservations are accepted via the web site www.riodelamiel.eu, link:mailto:reservations@riodelamiel.eu[eMail] or by
+link:tel:+34958199061[phone]. All reservations should specify the start and the end date of the stay and any courses
+the guest wants to participate in.
+. All reservations will be answered by _Rio de la Miel_ with either a confirmation or a deinal in case the course is
+already sold out.
+. In case a reservation is confirmed it will be guaranteed for 5 days. After 5 days a deposit of 25% of the total
+price must be made to secure the booking. This should give enough time to arrange the flights for the visit.
+. For Karma Yogis a confirmation from _Rio de la Miel_ is sufficient for a permanent guarantee. We would ask Karmayogis
+to let us know as early as possible if they can't come as planned.
+. If the deposit is not made within 5 days, the reservation is forfeited and must be redone.
+. The remaining balance is payable upon arrival.
+
+== Cancellations
+
+. The stay at _Rio de la Miel_ can be cancelled until 4 weeks before the stay. In that case the deposit is forfeited.
+. If the stay is cancelled afterwards, the full amount of the stay is due. We recommendto consider a travel insurance
+to cover for cases of illnes etc.
+. In case a course has to be cancelled due to lack of interest, the guest can choose between a cancellation free of charge
+and Yoga vacations at _Rio de la Miel_. In any of these cases any overpaid amount will be transferred to the guests bank
+account or the credit card used for pyayments.
+
+---
+
+== Legal
+
+The contents of our pages were created with great care. For the correctness, completeness and actuality we can not
+take any responsibility. As a service provider we are responsible according to 1 MDStV and 1 TDG for own contents
+on these pages under the general laws. However, we are not obligated to monitor the transmitted or stored foreign
+information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use
+of information under the general laws remain unaffected. However, liability is only possible from the date of
+knowledge of a specific infringement. Upon notification of such violations, we will remove the content immediately.
+
+Our offer contains links to external websites over which we have no control. Therefore we can not accept any
+responsibility for their content. The respective provider or operator of the pages is always responsible for
+the content of linked pages. The linked sites were checked at the time of linking for possible violations of law.
+Illegal contents were not recognizable. A permanent control of the linked pages is unreasonable without concrete
+evidence of a violation. Upon notification of violations, we will remove such links immediately.
+
+The operators of these pages aim to observe or to use their own or license-free works the copyrights of others.
+The contents and works on these pages created by the site operator are subject to German copyright law. Third party
+contributions are marked as such. Duplication, processing, distribution and any kind of exploitation outside the
+limits of copyright require the written consent of the respective author or creator.
+
+=== Data protection
+
+Bei using this web site we may gather information regarding the web site traffic such as location, date and time of the
+access, browser used etc.
+
+We will not gather nor store personal information without the consent of the user. Using the contact form implies
+consent to store the data of the form for internal processes. _Rio de la Miel_ will only use the data for its own
+purposes and will not pass the data to any 3rd party.
+
+The contact data of _Rio de la Miel_ may not be used for marketing purposes unless we have explicitly agreed to do so.
+
+---
+
+[cols="3"]
+|===
+|*Responsible for the content*
+|
+|Godea Vida S.L.U.
+
+|*General Manager*
+|
+|Karin Gies
+
+|*eMail*
+|
+|info@riodelamiel.eu
+
+|*Telefon*
+|
+|link:tel:+34958199061[+34 (958) 199 061]
+
+|*C.I.F.*
+|
+|B93426559
+
+|*VAT-Id.*
+|
+|ESB93426559
+|===

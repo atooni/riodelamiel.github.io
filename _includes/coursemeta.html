@@ -1,0 +1,60 @@
+<h3>{{ meta.title[page.lang] }}</h3>
+<h4>
+  {% for t in meta.trainer %}
+  {% unless forloop.first %}-{% endunless %}
+  {% assign trainer = site.data.trainer[t] %}
+  <a href="/trainer/{{page.lang}}/{{t}}.html">{{trainer.name}}</a>
+  {% endfor %}
+</h4>
+{% if include.overview %}
+<h4>- {{ site.data.translation['from'][page.lang] }} {{ meta.price.dorm}}€</h4>
+{% endif %}
+<table class="timetable tableblock">
+  <tr>
+    <th colspan="11" class="tableblock">{{ site.data.translation['course_dates'][page.lang]}}</th>
+  </tr>
+  {% capture today %}{{ 'now' | date: '%Y-%0m-%d' }}{% endcapture %}
+  {% assign dates = meta.start %}
+  {% assign count = 0 %}
+  {% for date_s in dates %}
+  <tr>
+    {% capture date %}{{ date_s | date: '%Y-%0m-%d'}}{% endcapture %}
+    {% if date >= today %}
+    <td width="10px">
+      <img src="/images/dot.png">
+    </td>
+    <td>-</td>
+    <td width="10px">
+      <img src="/images/dot.png">
+    </td>
+    <td align="center">{{date | date: '%0d.%0m.%Y'}}</td>
+    <td width="10px">
+      <img src="/images/dot.png">
+    </td>
+    <td>:</td>
+    <td width="10px">
+      <img src="/images/dot.png">
+    </td>
+    <td align="right">{{ meta.duration }}</td>
+    <td width="10px">
+      <img src="/images/dot.png">
+    </td>
+    <td>{{site.data.translation['course_days'][page.lang]}}</td>
+    <td width="10px">
+      <img src="/images/dot.png">
+    </td>
+    {% capture count %}{{count | plus: 1 }}{% endcapture %}
+    {% endif %}
+    {% endfor %}
+    {% if count == 0 %}
+    <td width="10px">
+      <img src="/images/dot.png">
+    </td>
+    <td>{{ site.data.translation['course_nodates'][page.lang]}}</td>
+    <td width="10px">
+      <img src="/images/dot.png">
+    </td>
+  </tr>
+  {% endif %}
+</table>
+

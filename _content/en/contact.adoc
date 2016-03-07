@@ -1,0 +1,75 @@
+---
+key: contact
+---
+=== Contact us
+For any questions you might have regarding your seminar in Rio de la Miel do not hesitate to contact us by
+link:tel:0034958199061[phone] or by mailto:info@riodelamiel.eu[eMail]. We will answer as quickly as we possibly can.
+
+We also help you to the best of our knowledge organising your travel and inform you about additional points of interest
+close to Rio de la Miel.
+
+Do not hesitate to contact us - we are glad to help.
+
+=== Organiser
+Godea Vida S.L.U. +
+C.I.F. ESB93426559 +
+Plaza Cavana 5 +
+29780 Nerja +
+Spain +
+mailto:info@riodelamiel.eu[info@riodelamiel.eu]
+
+=== Address of the seminar house
+Rio de la Miel, Province of Malaga,  Spain. +
+(36.762506, -3.853557)
+
+++++
+<div id="map"></div>
+++++
+
+=== How to get to us by car
+
+++++
+<div id="route"></div>
+++++
+
+=== Route description
+
+Here you find a route description link:/images/RiodelaMiel_en.pdf[to download] as there is no mobile connection on the way from the valley to Rio de la Miel.
+
+=== Postal address
+Karin & Andreas Gies +
+Apartado 1082 +
+E18697 La Herradura +
+Spain
+
+=== Busses to and from Nerja
+
+This is the official web site with all the buses to and from Nerja:
+
+http://www.nerjatoday.com/nerja/bus-timetables/
+
+=== Telephone:
+
+[cols="3"]
+|===
+
+|*Spain*
+|
+|link:tel:0034958199061[+34 958 199 061]
+
+|
+|
+|link:tel:0034644888098[+34 644 888 098]
+
+|*Germany*
+|
+|link:tel:00491773432483[+49 177 343 2483]
+
+|
+|
+|link:tel:004915123470823[+49 151 234 70 823]
+
+|*Telefax*
+|
+|link:tel:004918050065342114[+49 1805 006534 2114]
+|===

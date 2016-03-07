@@ -1,0 +1,78 @@
+yoga_001:
+  active: true
+  price:
+    dorm:   640
+    twin:   780
+    single: 1060
+  start:
+    - 04.06.2016
+    - 02.07.2016
+    - 20.08.2016
+    - 17.09.2016
+    - 15.10.2016
+  trainer:
+    - karin
+    - andreas
+  duration: 7
+  image: beginner.jpg
+  title:
+    en: "Yoga for Beginners"
+    de: "Einführung ins Yoga"
+
+med_001:
+  active: true
+  price:
+    dorm:   640
+    twin:   780
+    single: 1060
+  start:
+    - 18.06.2016
+    - 16.07.2016
+    - 03.09.2016
+    - 17.09.2016
+    - 29.10.2016
+  trainer:
+    - karin
+    - andreas
+  duration: 7
+  image: meditation.png
+  title:
+    en: "Meditation Primer"
+    de: "Einführung in die Meditation"
+
+pran_001:
+  active: true
+  price:
+    dorm:   740
+    twin:   880
+    single: 1160
+  start:
+    - 05.08.2016
+    - 30.09.2016
+  trainer:
+    - karin
+    - andreas
+  duration: 10
+  image: 5koshas.png
+  title:
+    en: "Pranayama"
+    de: "Pranayama"
+
+cooking_001:
+  active: false
+  price:
+    dorm:   740
+    twin:   880
+    single: 1160
+  start:
+    - 25.03.2015
+    - 01.04.2015
+    - 01.05.2015
+  trainer:
+    - karin
+  duration: 7
+  image: cooking.jpg
+  title:
+    en: "Vegan cooking"
+    de: "Vegan kochen"
+

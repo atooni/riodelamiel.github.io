@@ -1,0 +1,45 @@
+de:
+  logo:
+    title: "Rio de la Miel"
+    url: "/"
+  courses:
+    title: "Kurse"
+    url: "/pages/de/courses.html"
+  vacation:
+    title: "Yogaferien"
+    url: "/pages/de/vacation.html"
+  about:
+    title: "Über uns"
+    url: "/pages/de/about.html"
+  galery:
+    title: "Galerie"
+    url:   "/pages/de/galery.html"
+  contact:
+    title: "Kontakt"
+    url: "/pages/de/contact.html"
+  legal:
+    title: "Impressum"
+    url: "/pages/de/impressum.html"
+
+en:
+  logo:
+    title: "Rio de la Miel"
+    url: "/pages/en/index.html"
+  courses:
+    title: "Courses"
+    url: "/pages/en/courses.html"
+  vacation:
+    title: "Yoga Vacations"
+    url: "/pages/en/vacation.html"
+  about:
+    title: "About us"
+    url: "/pages/en/about.html"
+  galery:
+    title: "Galery"
+    url:   "/pages/en/galery.html"
+  contact:
+    title: "Contact"
+    url: "/pages/en/contact.html"
+  legal:
+    title: "Legal"
+    url: "/pages/en/impressum.html"

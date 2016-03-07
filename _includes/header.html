@@ -1,4 +1,11 @@
+<div id="head">
+  <div id="logo">
+    <a href="{{ site.data.navigation[page.lang]['logo'].url }}"><img src="/images/logo.png" alt="logo" width="150"/></a>
+  </div>
+</div>
+
 <header role="banner">
+
   <nav role="navigation" class="navbar navbar-default">
     <div class="container">
       <div class="navbar-header">
@@ -7,20 +14,32 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/index.html">
-          <img src="/images/logo.png" alt="Home" width="150"/>
-        </a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
+
         <ul class="nav navbar-nav">
-          {% for link in site.links %}
-          <li>
-          {% if forloop.first %}
-          <a href="{{link.link}}"><span class="glyphicon glyphicon-home"></span>{{link.text}}</a>
-          {% else %}
-          <a href="{{ link.link }}">{{link.text}}</a>
+            {% for menu in site.data.navigation[page.lang] %}
+            {% if menu[0] != 'logo' %}
+            <li class="navbar-center"><a href="{{ menu[1].url }}">{{ menu[1].title }}</a></li>
+            {% endif %}
+            {% endfor %}
+
+          {% if page.type == "course" %}
+            {% assign a = site.courses | where:"course", page.course | sort:"lang" %}
+            {% include languages.html alternatives = a %}
           {% endif %}
-          {% endfor %}
+          {% if page.type == "posts" %}
+            {% assign a = site.posts | where:"date", page.date | sort:"lang" %}
+            {% include languages.html alternatives = a %}
+          {% endif %}
+          {% if page.type == "trainer" %}
+            {% assign a = site.pages | where:"type", "trainer" | where:"trainer", page.trainer | sort:"lang" %}
+            {% include languages.html alternatives = a %}
+          {% endif %}
+          {% if page.type == "page" %}
+            {% assign a = site.content | where:"key", page.key | sort:"lang" %}
+            {% include languages.html alternatives = a %}
+          {% endif %}
         </ul>
       </div>
     </div>
@@ -40,7 +59,7 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox"  >
-      {% for banner in site.banners %}
+      {% for banner in site.data.banner %}
       {% if forloop.first %}
       <div class="item active">
       {% else %}
@@ -63,3 +82,9 @@
 
   </div>
 </header>
+<div id="subtitle">Serve<img src="/images/dot.png" width="{{ site.spacing.subtitle }}"/><img src="/images/Om.png" width="20" height="20"/><img src="/images/dot.png" width="{{ site.spacing.subtitle }}"/>Love<img src="/images/dot.png" width="{{ site.spacing.subtitle }}"/><img src="/images/Om.png" width="20" height="20"/><img src="/images/dot.png" width="{{ site.spacing.subtitle }}"/>Give<img src="/images/dot.png" width="{{ site.spacing.subtitle }}"/><img src="/images/Om.png" width="20" height="20"/><img src="/images/dot.png" width="{{ site.spacing.subtitle }}"/>Meditate<img src="/images/dot.png" width="{{ site.spacing.subtitle }}"/><img src="/images/Om.png" width="20" height="20"/><img src="/images/dot.png" width="{{ site.spacing.subtitle }}"/>Realize</div>
+
+
+
+
+

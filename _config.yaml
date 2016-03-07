@@ -1,4 +1,4 @@
-permalink: /:year/:month/:day/:title.html
+permalink: /posts/:title.html
 url: http://www.riodelamiel.eu
 
 owner:
@@ -12,35 +12,72 @@ google_analytics: "UA-51632968-2"
 
 gems:
   - jekyll-asciidoc
+  - jekyll-sitemap
 
 versions:
   jquery : "1.11.3"
   bootstrap: "3.3.5"
 
-banners:
-  - img: "Banner1.jpg"
-    alt: "Banner1"
-  - img: "Banner2.jpg"
-    alt: "Banner2"
-  - img: "Banner3.jpg"
-    alt: "Banner3"
+collections:
+  courses:
+    output: true
+    permalink: /courses/:path.html
+  content:
+    output: true
+    permalink: /pages/:path.html
 
-links:
-  - link: "/index.html"
-    text: "Home"
-    key:  "index"
-  - link: "/blog.html"
-    text: "Blog"
-    key:  "blog"
-  - link: "/about.html"
-    text: "Über uns"
-    key:  "about"
-  - link: "/contact.html"
-    text: "Kontakt"
-    key:  "contact"
-  - link: "/impressum.html"
-    text: "Impressum"
-    key:  "impressum"
+spacing:
+  subtitle: "5"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      type: "page"
+      share: "true"
+      lang: "de"
+      layout: "default"
+  -
+    scope:
+      path: "_posts/en"
+    values:
+      type: "posts"
+      lang: "en"
+  -
+    scope:
+      path: "_posts/de"
+    values:
+      type: "posts"
+      lang: "de"
+  -
+    scope:
+      path: "pages/en"
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "courses"
+    values:
+      type: "course"
+      layout: "course"
+  -
+    scope:
+      path: "courses/en"
+    values:
+      layout: "course"
+      lang: "en"
+  -
+    scope:
+      path: "trainer"
+    values:
+      type: "trainer"
+      layout: "trainer"
+  -
+    scope:
+      path: "trainer/en"
+    values:
+      lang: "en"
 
 # Enforce the standard ASCIIDOC behavior for Jekyll.
 asciidoctor:

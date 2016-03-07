@@ -1,0 +1,28 @@
+{% assign courses = site.courses | where:"lang", page.lang %}
+{% for course in courses %}
+  {% assign meta = site.data.courses[course.course] %}
+  {% assign trainers = meta.trainer | join:',' %}
+
+  {% if include.trainer %}
+    {% if trainers contains include.trainer %}
+      {% assign courseincl = meta.active %}
+    {% else %}
+      {% assign courseincl = false %}
+    {% endif %}
+  {% else %}
+  {% assign courseincl = meta.active %}
+  {% endif %}
+
+  {% if courseincl %}
+    <div class="col-md-8 col-md-offset-2">
+      {% include coursemeta.html overview=true %}
+      {% if meta.image %}
+      <img src="/images/courses/{{meta.image}}" class="ads_left" width="150"/>
+      {% endif %}
+      {{ course.content | strip_html | truncatewords: 30 }}
+      <p>
+        <a href="{{ course.url }}" class="btn btn-primary ads_right" role="button">{{ site.data.translation['read_more'][page.lang]}}</a>
+      </p>
+    </div>
+  {% endif %}
+{% endfor %}

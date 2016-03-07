@@ -1,0 +1,129 @@
+---
+key: prices
+booking: true
+---
+== The seminar house _Rio de la Miel_
+
+The seminar house _Rio de la Miel_ is located right at the edge of the nature park _Sierra Tejada_ close to the village
+of Nerja in the province of Malaga, Andalucia. _Rio de la Miel_ is exclusively for Yoga seminars and offers Yoga
+guests a holistic experience with daily 2 meditations, 2 Yoga classes and 2 vegan meals (brunch and diner).
+
+Throughout the stay our guests can benefit from the unique silence in the andalucian mountains and disconnect from
+the normal day-to-day stress. At the same time we are close to the coast and the beautiful village of Nerja for occasional
+excursions. In _Rio de la Miel_ we omit alcohol, cigarettes and any animal products. Located at the edge of a nature park
+we don't have mobile connectivity though all our guests may use our internet connection in the reception area for free.
+Having only a satellite connection, the connectivity is restricted to eMails, simple web browsing and text based
+messaging services.
+
+Yoga vacations in _Rio de la Miel_ can be booked at any time and for any duration. All vacation guests may participate
+in our meditations and Yoga classes. Participation is not mandatory but a joined Yoga practice helps us build up the
+energy in our seminar house. We are happy to introduce Yoga beginners to a daily practice.
+
+++++
+<div class="row" align="center">
+<img src="/images/house/DSC_0040.jpg" width="600" />
+</div>
+
+<div class="row col-md-12">
+  <h3>Our daily schedule</h3>
+  <table class="timetable" align="center">
+    <tr>
+      <td align="center">07:00</td>
+      <td align="center" width="25px">-</td>
+      <td align="center">07:45</td>
+      <td width="30px" />
+      <td>Meditation / Kirtan</td>
+    </tr>
+    <tr>
+      <td align="center">08:00</td>
+      <td align="center" width="25px">-</td>
+      <td align="center">09:30</td>
+      <td width="30px" />
+      <td>Yoga</td>
+    </tr>
+    <tr>
+      <td align="center">10:00</td>
+      <td align="center" width="25px">-</td>
+      <td align="center">11:30</td>
+      <td width="30px" />
+      <td>Breakfast</td>
+    </tr>
+    <tr>
+      <td align="center">17:30</td>
+      <td align="center" width="25px">-</td>
+      <td align="center">19:00</td>
+      <td width="30px" />
+      <td>Yoga</td>
+    </tr>
+    <tr>
+      <td align="center">19:30</td>
+      <td align="center" width="25px">-</td>
+      <td align="center">21:00</td>
+      <td width="30px" />
+      <td>Diner</td>
+    </tr>
+    <tr>
+      <td align="center">21:00</td>
+      <td align="center" width="25px">-</td>
+      <td align="center">21:45</td>
+      <td width="30px" />
+      <td>Meditation / Kirtan</td>
+    </tr>
+  </table>
+</div>
+++++
+
+== Prices for Yoga vacations
+
+Yoga cavactions can be booked any time with a minimum stay of 3 days. The prices below include accomodation, 2 vegan meals
+per day (brunch and diner), 2 meditations and 2 yoga classes per day.
+
+=== Dormitories
+
+The dormitories are of simple comfort and provide a bed and some space for personal items and personal gaderobe.
+Valueables can be stored in a safe at our reception. Guests staying in one of the dormitories use one of the shared
+bath rooms all of which are equipped with shower and WC.
+
+=== Double Room / Two bed room
+
+The double rooms have two beds and provide sufficient space for personal items and gaderobe. All double rooms have their
+own bath with shower and WC. Double rooms might be shared with another guest in if it is booked by a single person not
+requiring the room for single use.
+
+If required the room can be booked by a single person for exclusive use.
+
+=== Single Room
+
+The single room is a bit smaller, has a comfortable bed and sufficient space for personal items and gaderobe. It also
+has it's own bath room with shower and WC. A large window provides additional light and a nice view into the valley.
+
+=== Price List
+
+The prices below are per person excluding travel costs. With the reservation we require a deposit of 25% of the total
+price and the remaining balance is payable upon arrival.
+
+++++
+<div class="row" align="center">
+++++
+
+[width="80%",cols="1,^,^,^",options="header"]
+|======
+| Room type               | < 7 days    | 1 week        | additional day
+|                         | per day / € | per week / €  | per day / €
+| Dormitory               |  75         |  490          |   70
+| double room             | 100         |  630          |   90
+| double room single use  | 130         |  770          |  110
+| single room             | 150         |  910          |  130
+|======
+++++
+</div>
+++++
+
+=== Karma Yoga
+
+For people interested in a longer term Yoga practice we offer food, shelter, Yoga and meditation in exchange
+for helping us in _Rio de la Miel_. The actual work depends on the need at hands and the Karma Yogis capabilities.
+Throughout the stay we expect 4-5 hours or work per day.
+
+Throughout the year we primarily need help running the seminar house, cleaning and within the kitchen. In quieter
+times we are planning to extend the facilities at _Rio de la Miel_.

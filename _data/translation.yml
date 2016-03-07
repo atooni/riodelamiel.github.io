@@ -1,0 +1,85 @@
+current_courses:
+  en: "Current Courses"
+  de: "Aktuelle Kurse"
+
+course_overview:
+  en: "All Courses"
+  de: "Alle Kurse"
+
+course_dates:
+  en: "Current Schedule"
+  de: "Aktuelle Termine"
+
+course_nodates:
+  en: "Not currently scheduled"
+  de: "Keine aktuellen Termine"
+
+course_days:
+  en: "days"
+  de: "Tage"
+
+read_more:
+  en: "Read more ..."
+  de: "Weiter lesen ..."
+
+roomtype:
+  en: "Staying in"
+  de: "Bei Unterbringung im"
+
+per_person:
+  en: "per person"
+  de: "pro Person"
+
+enquiry:
+  en: "Booking enquiry"
+  de: "Buchungsanfrage"
+
+from:
+  en: "from"
+  de: "Ab"
+
+dorm:
+  en: "Dormitory"
+  de: "Mehrbettzimmer"
+twin:
+  en: "Double Room"
+  de: "Zweibettzimmer"
+single:
+  en: "Single Room"
+  de: "Einzelzimmer"
+
+enqsubject:
+  en: "Yoga course or Yoga vacation"
+  de: "Yoga Kurs oder Yoga Urlaub"
+
+month:
+  en:
+    m1  : "January"
+    m2  : "February"
+    m3  : "March"
+    m4  : "April"
+    m5  : "May"
+    m6  : "June"
+    m7  : "July"
+    m8  : "August"
+    m9  : "September"
+    m10 : "October"
+    m11 : "November"
+    m12 : "December"
+  de:
+    m1  : "Januar"
+    m2  : "Februar"
+    m3  : "März"
+    m4  : "April"
+    m5  : "Mai"
+    m6  : "Juni"
+    m7  : "Juli"
+    m8  : "August"
+    m9  : "September"
+    m10 : "Oktober"
+    m11 : "November"
+    m12 : "December"
+
+share_page:
+  en: "Share this page"
+  de: "Diese Seite teilen"
