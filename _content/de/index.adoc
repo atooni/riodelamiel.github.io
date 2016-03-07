@@ -49,7 +49,7 @@ finden wir die meisten Produkte aus lokalem Anbau, die zu einer abwechslungstrei
 ++++
 <div class="col-md-4" align="center">
 ++++
-image::/images/asana.png[height=150, align=center]
+image::/images/Asana.png[height=150, align=center]
 Unsere Yogastunden bauen auf den 12 Grundstellungen (Asanas) des Hatha-Yogas auf. Atemübungen (Pranayama), Meditation und
 Tiefenentspannung helfen uns den Ausgleich zwischen Anspannung und Entspannung zu finden. Die Übungen sind so aufgebaut,
 dass unsere Yogaferien sowohl für Anfänger als auch für Fortgeschrittene geeignet sind.

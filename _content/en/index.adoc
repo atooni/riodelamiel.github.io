@@ -44,7 +44,7 @@ products we need to provide a rich and healthy vegan diet for our guests.
 </div>
 <div class="col-md-4" align="center">
 ++++
-image::/images/yoga.jpg[height=150, align=center]
+image::/images/Asana.png[height=150, align=center]
 Our Yogaclasses are based on 12 basic postures (Asanas) that can be found in Hathayoga. Breathing exercises (Pranayama),
 meditation and relaxation help us to find the right balance in our Yoga practice. The exercises are beneficial for
 Yogabeginners but also have challenges for more experienced Yoga practitioners.
