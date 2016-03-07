@@ -4,7 +4,7 @@ booking: true
 ---
 == The seminar house _Rio de la Miel_
 
-The seminar house _Rio de la Miel_ stands right at the edge of the nature park _Sierra Tejada_ close to the village
+The seminar house _Rio de la Miel_ is located right at the edge of the nature park _Sierra Tejada_ close to the village
 of Nerja in the province of Malaga, Andalucia. _Rio de la Miel_ is exclusively for Yoga seminars and offers Yoga
 guests a holistic experience with daily 2 meditations, 2 Yoga classes and 2 vegan meals (brunch and diner).
 

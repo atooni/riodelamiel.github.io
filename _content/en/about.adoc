@@ -1,49 +1,61 @@
 ---
 key: about
 ---
-
-== English version
-
 ++++
 <div class="row">
 ++++
 [role="col-md-6"]
-== Karin Gies
+=== Karin 'Atmay Joti' Gies
 
 [role="ads_left"]
 image::/images/trainer/karin.jpg[height=400, align=center]
 
-Karin Gies (Atmay Joti) practices Yoga for many years and participated in 2005 in a Yoga Teacher's Training in the
-tradition of http://www.sivananda.org[Swami Sivananda]. Ever since she teaches Yoga with great empathy at her own Yoga
-studio or as a guest teacher in Yoga locations all over the world.
+Atmay Joti practices Yoga for many years and is a yoga teacher in the tradition of
+http://www.sivananda.org/teachings/swami-sivananda.html[Swami Sivananda]. Since her graduation she teaches Yoga
+with great empathy in her own studios und with Yoga organisations world wide.
 
+Continously she visited Ashrams in Europe and India for further studies. She is a Yoga Archyara also in the tradition of
+http://www.sivananda.org/teachings/swami-sivananda.html[Swami Sivananda] and has attended a Yoga Therapy course by
+Harilal Ji.
 
+Atmay Joti teaches Yoga with great passion. She encourages her students to pursue the search for their potential
+within and live it to the fullest joy.
 
-Karin Gies praktiziert seit vielen Jahren Yoga und hat 2005 eine Ausbildung zur Yoga Lehrerin in der Tradition von Swami Sivananda absolviert. Seit dem unterrichtet sie mit grossem Einfühlungsvermögen Yoga in eigenen Yogastudios und weltweit tätigen Yogaorganisationen.
+Yoga in it simple yet deep wisdom always fascinated her. The balance of breath and pose within the asanas,
+the nature of the mind in resonance with its environment and the vedantic philosophy for her three sides of
+a unifying truth.
 
-2006 hat sie eine Weiterbildung zum Yoga Archyara ebenfalls in der Tradition von Swami Sivananda absolviert. 2009 erfolgte eine weitere Ausbildung zur Yogatherapeutin bei Harilalji.
+The desire to live and teach a holistic approach to Yoga lead her and her husband Ramdas to the coast of Andalucia
+where they have created the seminar house _Rio de la Miel_. Here they offer Yoga vacations and courses for Yoga
+beginners and experienced practitioners.
 
-Yoga in seiner schlichten aber doch so tiefen Weisheit hat sie schon immer fasziniert. Das Zusammenspiel von Atmung und Bewegung in den Asanas; die Natur des Geistes im Einklang mit unserer Umwelt und die vedantische Philosophie verbinden sich für sie zu einem sinnvollen Ganzen.
-
-Karin Gies unterrichtet mit Leidenschaft und Hingabe. Sie bestärkt Ihre Schüler in ihrem Streben, das eigene Potenzial vollständig zu entdecken und zu erleben.
-
-2014 hat sie beschlossen, sich nunmehr auf ganzheitliches Yoga zu konzentrieren und gemeinsam mit ihrem Mann Andreas als Partnerin Rio de la Miel Yogaretreats zu organisieren und durchzuführen.
+++++
+<button class="btn btn-primary"><a href="/trainer/{{ page.lang }}/karin.html">{{ site.data.translation['current_courses'][page.lang]}}</a></button>
+++++
 
 [role="col-md-6"]
-== Andreas Gies
+=== Andreas 'Ramdas' Gies
 
 [role="ads_left"]
 image::/images/trainer/andreas.jpg[height=400, align=center]
 
-Andreas Gies hat sich von der Yogabegeisterung seiner Frau anstecken lassen und praktiziert ebenfalls seit mehreren Jahren. 2006 hat er seine Yogalehrerausbildung in der Tradition von Swami Sivananda absolviert und unterrichtet seither, wann immer es seine Zeit erlaubt.
+Ramdas has joined his wife in her Yoga practice and practices himself for some years. He is also a yoga teacher in the
+tradition of http://www.sivananda.org/teachings/swami-sivananda.html[Swami Sivananda]. Even while he still worked as an
+IT consultant he has taught Yoga whenever his time allowed. In _Rio de la Miel_ he teaches Yoga for beginners and meditation.
 
-Nach seinem Informatikstudium ist er seit über 20 Jahren als Berater in internationalen Projekten tätig und hat 2010 die Way of Quality GmbH gegründet, die sich in erster Linie um qualitätsorientierte Softwareentwicklung und den Einsatz von Open Source Technologien in grossen Projekten kümmert.
+In his job he has noticed again and again the positive effects of simple Yoga and meditation techniques facing
+the day-to-day job challenges. Whether it is _just_ a more relaxed state of mind in the face of the daily
+challenges or finally the need to acknowledge and respect everyone met in business life as an equal human being -
+Yoga teaches how this can be achieved and is today more important than ever.
 
-In dieser Tätigkeit als IT-Berater hat er immer wieder bemerkt, wie einfache Yogapraktiken eine Verbesserung im beruflichen Alltag bewirken können. Gerade wenn es darum geht, neue Technologien zu erlernen, hat sich eine regelmässige Yogapraxis als förderlich erwiesen.
+Besides the well-known benefits Yoga can also help learning new skills with simple Yoga- and meditation exercises.
+From these experiences he has developed a course concept combining a daily Yoga practice, a healthy diet and learning
+into a holistic learning experience.
 
-Aus diesen Erfahrungen hat er ein Kurskonzept entwickelt, welches eine tägliche Yogapraxis, eine ausgewogene Ernährung und das Erlernen neuer Technologien miteinander in Einklang bringt.
+Over time _Rio de la Miel_ will offer a variety of courses with external trainers so that the stufents can
+experience the positive effects of Yoga on learning all by themselves.
 
-Die kombinierten IT/Yoga Kurse werden ab Sommer 2016 Bestandteil des Kursprogrammes in Rio de la Miel sein.
 ++++
+<button class="btn btn-primary"><a href="/trainer/{{ page.lang }}/andreas.html">{{ site.data.translation['current_courses'][page.lang]}}</a></button>
 </div>
 ++++

@@ -5,16 +5,16 @@ booking: true
 ++++
 <div class="row" align="center">
 ++++
-== Yoga courses and Yoga Vacations beneath the Andalusian sun
+== Yoga courses and Yoga vacations beneath the sun of Andalucia
 ++++
 </div>
 <div class="row" align="justify">
 ++++
-Yoga vactions close to the beautiful nature park Sierra Tejada allows us to experience a
+Yoga vacations close to the beautiful nature park _Sierra Tejada_ allows us to experience a
 deep relaxation for the body, the mind and the soul. Remoting ourselves from modern
 communication leads us back to balance and peace in the mind.
 
-Meditation, Pranayama, healthy food and  Asanas under the andalusian sun let us get back in contact with
+Meditation, Pranayama, healthy food and  asanas under the andalusian sun allow us get back in contact with
 our inner peace and strength. A daily Yoga practice teaches us how Yoga can enrich our daily life.
 
 Our guests will find exactly that combination in our seminar house close to the andalusian coast in the
