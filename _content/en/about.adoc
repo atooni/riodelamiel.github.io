@@ -5,12 +5,12 @@ key: about
 <div class="row">
 ++++
 [role="col-md-6"]
-=== Karin 'Atmay Joti' Gies
+=== Karin 'Atmayjothi' Gies
 
 [role="ads_left"]
 image::/images/trainer/karin.jpg[height=400, align=center]
 
-Atmay Joti practices Yoga for many years and is a yoga teacher in the tradition of
+Atmayjothi practices Yoga for many years and is a yoga teacher in the tradition of
 http://www.sivananda.org/teachings/swami-sivananda.html[Swami Sivananda]. Since her graduation she teaches Yoga
 with great empathy in her own studios und with Yoga organisations world wide.
 
@@ -18,7 +18,7 @@ Continously she visited Ashrams in Europe and India for further studies. She is 
 http://www.sivananda.org/teachings/swami-sivananda.html[Swami Sivananda] and has attended a Yoga Therapy course by
 Harilal Ji.
 
-Atmay Joti teaches Yoga with great passion. She encourages her students to pursue the search for their potential
+Atmayjothi teaches Yoga with great passion. She encourages her students to pursue the search for their potential
 within and live it to the fullest joy.
 
 Yoga in its simple yet deep wisdom always fascinated her. The balance of breath and pose within the asanas,
