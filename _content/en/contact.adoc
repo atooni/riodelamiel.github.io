@@ -2,8 +2,8 @@
 key: contact
 ---
 === Contact us
-For any questions you might have regarding your seminar in Rio de la Miel do not hesitate to contact us mailto:info@riodelamiel.eu[by eMail]. We
-will answer as quickly as we possibly can.
+For any questions you might have regarding your seminar in Rio de la Miel do not hesitate to contact us by
+link:tel:0034958199061[phone] or by mailto:info@riodelamiel.eu[eMail]. We will answer as quickly as we possibly can.
 
 We also help you to the best of our knowledge organising your travel and inform you about additional points of interest
 close to Rio de la Miel.
@@ -55,21 +55,21 @@ http://www.nerjatoday.com/nerja/bus-timetables/
 
 |*Spain*
 |
-|+34 958 199 061
+|link:tel:0034958199061[+34 958 199 061]
 
 |
 |
-|+34 644 888 098
+|link:tel:0034644888098[+34 644 888 098]
 
 |*Germany*
 |
-|+49 177 343 2483
+|link:tel:00491773432483[+49 177 343 2483]
 
 |
 |
-|+49 151 234 70 823
+|link:tel:004915123470823[+49 151 234 70 823]
 
 |*Telefax*
 |
-|+49 1805 006534 2114
+|link:tel:004918050065342114[+49 1805 006534 2114]
 |===
