@@ -4,7 +4,7 @@ key: impressum
 
 == Reservierung und Buchung
 
-. Die Reservierung des Afenthalts erfolgt ausschliesslich über die Webseite http://www.riodelamiel.eu, per
+. Die Reservierung des Aufenthalts erfolgt ausschliesslich über die Webseite http://www.riodelamiel.eu, per
 link:mailto:reservations@riodelamiel.eu[eMail] oder link:tel:+34958199061[telefonisch]. Eine Reservierung sollte immer unter Angabe eines gewünschten
 Aufenthaltszeitraumes bzw. Seminars und einer Zimmerkategorie erfolgen.
 . Nach Eingang der Reservierung wird diese von _Rio de la Miel_ per eMail bestätigt. Nach Erhalt der
