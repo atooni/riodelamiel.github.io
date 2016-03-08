@@ -52,6 +52,18 @@ enqsubject:
   en: "Yoga course or Yoga vacation"
   de: "Yoga Kurs oder Yoga Urlaub"
 
+schedule:
+  en: "Our daily schedule"
+  de: "Unser Tagesprogramm"
+
+breakfast:
+  en: "Breakfast"
+  de: "Frühstück"
+
+diner:
+  en: "Diner"
+  de: "Abendessen"
+
 month:
   en:
     m1  : "January"
