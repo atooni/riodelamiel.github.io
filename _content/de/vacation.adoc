@@ -4,18 +4,18 @@ booking: true
 ---
 == Das Seminarhaus
 
-Das Seminarhaus _Rio de la Miel_ liegt am Rande eines Naturschutzgebietes in der Nähe von Nerja in der Provinz Malaga.
-_Rio de la Miel_ wird ausschliesslich als Yogaseminarhaus geführt und bietet seinen Gästen einen ganzheitlichen Aufenthalt
+Das Seminarhaus _Rio de la Miel_ liegt am Rande eines Naturschutzgebiets in der Nähe von Nerja in der Provinz Malaga.
+_Rio de la Miel_ wird ausschließlich als Yogaseminarhaus geführt und bietet seinen Gästen einen ganzheitlichen Aufenthalt
 mit täglich 2 Meditationen, 2 Yogastunden und zwei veganen Mahlzeiten (Brunch und Abendessen).
 
 Während des Aufenthaltes geniessen wir die einmalige Ruhe der andalusischen Berge und sind doch nicht weit von der Küste
-entfernt. Bewusst nehmen wir Abstand von den alltäglichen Gewohnheiten und geniessen den Aufenthalt ohne Alkohol, ohne
+entfernt. Bewusst nehmen wir Abstand von den alltäglichen Gewohnheiten und genießen den Aufenthalt ohne Alkohol, ohne
 Zigaretten und ohne tierische Produkte. In _Rio de la Miel_ gibt es keinen Mobilfunk, jedoch steht allen Gästen im
 Rezeptionsbereich kostenloses Internet zur Verfügung, um mit den Lieben daheim in Kontakt zu bleiben.
 
 Yogaferien in _Rio de la Miel_ können jederzeit in beliebiger Länge gebucht werden. Den Gästen der Yogaferien stehen
 alle Meditationen und Yogastunden offen. Die Teilnahme ist nicht verpflichtend, jedoch ist im Sinne einer gemeinsamen
-Erfahrung  die Teilnahme an mindestens einer Meditation und einer Yogastunde am Tag wünschenswert. Yogabeginner führen wir
+Erfahrung die Teilnahme an mindestens einer Meditation und einer Yogastunde am Tag wünschenswert. Yogabeginner führen wir
 gerne an die Yogapraxis heran.
 
 ++++
@@ -28,7 +28,7 @@ gerne an die Yogapraxis heran.
 
 === Preise für Yogaferien
 
-Yogaferien können jederzeit ab einer Länge von 3 Tagen gebucht werden. Die untenstehenden Preise sind Inklusivpreise
+Yogaferien können jederzeit ab einer Länge von 3 Tagen gebucht werden. Die unten stehenden Preise sind Inklusivpreise
 und beinhalten Unterkunft, 2 vegane Mahlzeiten (Brunch und Abendessen), Abend- und Morgenmeditation sowie 2 Yogastunden
 am Tag.
 
@@ -49,13 +49,13 @@ Auf Wunsch kann ein Zweibettzimmer zur Einzelnutzung gebucht werden.
 === Einzelzimmer
 
 Das Einzelzimmer ist etwas kleiner geschnitten und bietet ein komfortables Bett und ausreichend Platz für persönliche
-Gegenstände und Kleidung. Ausserdem bietet ein bodentiefes Fenster viel Licht und einen schönen Blick ins Tal. Das
+Gegenstände und Kleidung. Außerdem bietet ein bodentiefes Fenster viel Licht und einen schönen Blick ins Tal. Das
 Einzelzimmer verfügt über ein eigenes Bad mit Dusche und WC.
 
 === Preisliste
 
-Alle untenstehenden Preise sind pro Person bei Anreise in eigener Regie angeben. Bei der Reservierung sind 25% des
-Gesamtbetrages fällig, die restliche Summe ist bei der Anreise zu entrichten.
+Alle unten stehenden Preise sind pro Person bei Anreise in eigener Regie angegeben. Bei der Reservierung sind 25% des
+Gesamtbetrags fällig, die restliche Summe ist bei Anreise zu entrichten.
 
 ++++
 <div class="row" align="center">
@@ -76,10 +76,10 @@ Gesamtbetrages fällig, die restliche Summe ist bei der Anreise zu entrichten.
 
 === Karmayoga
 
-Je nach Verfügbarkeit können Yoga-Interessierte gegen Kost, Logis, Meditation und eine Yogastunde täglich in
+Je nach Verfügbarkeit können Yogainteressierte gegen Kost, Logis, Meditation und eine Yogastunde täglich in
 _Rio de la Miel_ helfen. Die Form der Hilfe richtet sich nach aktuellem Bedarf und Fähigkeiten. Die Mitarbeit pro Tag
 beträgt ca. 4 Stunden.
 
-Wähend des Seminarbetriebes werden wir in erster Linie Hilfe bei der Reinigung, in der Küche und bei der Gästebetreuung
+Während des Seminarbetriebs werden wir in erster Linie Hilfe bei der Reinigung, in der Küche und bei der Gästebetreuung
 benötigen. In ruhigeren Phasen planen wir den weiteren Ausbau von _Rio de la Miel_.
 

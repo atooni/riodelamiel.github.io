@@ -4,11 +4,11 @@ key: impressum
 
 == Reservierung und Buchung
 
-. Die Reservierung des Aufenthalts erfolgt ausschliesslich über die Webseite http://www.riodelamiel.eu, per
-link:mailto:reservations@riodelamiel.eu[eMail] oder link:tel:+34958199061[telefonisch]. Eine Reservierung sollte immer unter Angabe eines gewünschten
-Aufenthaltszeitraumes bzw. Seminars und einer Zimmerkategorie erfolgen.
-. Nach Eingang der Reservierung wird diese von _Rio de la Miel_ per eMail bestätigt. Nach Erhalt der
-Reservierungsbestätigung ist innerhalb von 5 Tagen eine Anzahlung von 25% des Gesamtpreises zu entrichten, so daß
+. Die Reservierung des Aufenthalts erfolgt ausschließlich über die Webseite http://www.riodelamiel.eu, per
+link:mailto:reservations@riodelamiel.eu[E-Mail] oder link:tel:+34958199061[Telefon]. Eine Reservierung sollte immer unter Angabe eines gewünschten
+Aufenthaltszeitraums bzw. Seminars und einer Zimmerkategorie erfolgen.
+. Nach Eingang der Reservierung wird diese von _Rio de la Miel_ per E-Mail bestätigt. Nach Erhalt der
+Reservierungsbestätigung ist innerhalb von 5 Tagen eine Anzahlung von 25% des Gesamtpreises zu entrichten, so dass
 ausreichend Zeit gegeben ist, um Flüge für die An- und Abreise zu buchen.
 . Für einen Karmayogaaufenthalt reicht die schriftliche Bestätigung seitens _Rio de la Miel_ für die Verbindlichkeit aus.
 . Wird innerhalb von 5 Arbeitstagen die Anzahlung nicht geleistet, verfällt die Reservierung und muss erneut getätigt
@@ -23,7 +23,7 @@ Ein Recht auf Rückerstattung besteht ausdrücklich nicht.
 Reiserücktrittsversicherung, um krankheitsbedingte Ausfälle abzudecken.
 . Sofern ein Kurs auf Grund mangelnder Anmeldungen nicht durchgeführt werden kann, kann der Gast zwischen einer
 kostenfreien Stornierung und einer Umwandlung in einen Yogaaufenthalt wählen. Im Falle der Umwandlung werden eventuell
-zuviel gezahlte Kursgebühren zurück erstattet.
+zu viel gezahlte Kursgebühren zurückerstattet.
 
 ---
 
@@ -43,7 +43,7 @@ Eine Haftung ist erst ab dem Zeitpunkt der Kenntniserlangung möglich.
 
 === Externe Links
 
-Die Webseite enthält sog. „externe Links“ (Verlinkungen) zu anderen Webseiten, auf deren Inhalt der Anbieter der
+Die Webseite enthält sogenannte _externe Links_ (Verlinkungen) zu anderen Webseiten, auf deren Inhalt der Anbieter der
 Webseite keinen Einfluss hat. Aus diesem Grund kann der Anbieter für diese Inhalte auch keine Gewähr übernehmen.
 Für die Inhalte und Richtigkeit der bereitgestellten Informationen ist der jeweilige Anbieter der verlinkten Webseite
 verantwortlich. Zum Zeitpunkt der Verlinkung waren keine Rechtsverstöße erkennbar. Bei Bekanntwerden einer solchen
@@ -60,7 +60,7 @@ ist nicht gestattet und strafbar.
 === Datenschutz
 
 Durch den Besuch des Internetauftritts können Informationen (Datum, Uhrzeit, aufgerufene Seite) über den Zugriff auf
-dem Server gespeichert werden. Es werden keine personenbezogenenen (z. B. Name, Anschrift oder E-Mail-Adresse) Daten,
+dem Server gespeichert werden. Es werden keine personenbezogenenen Daten (z. B. Name, Anschrift oder E-Mail-Adresse)
 gespeichert.
 
 Sofern personenbezogene Daten erhoben werden, erfolgt dies, sofern möglich, nur mit dem vorherigen Einverständnis des
@@ -72,7 +72,7 @@ keine Haftung für die durch solche Sicherheitslücken entstandenen Schäden.
 
 Der Verwendung der Kontaktdaten durch Dritte zur gewerblichen Nutzung wird ausdrücklich widersprochen. Es sei denn,
 der Anbieter hat zuvor seine schriftliche Einwilligung erteilt. Der Anbieter behält sich rechtliche Schritte für den
-Fall der unverlangten Zusendung von Werbeinformationen, z.B. durch Spam-Mails, vor.
+Fall der unverlangten Zusendung von Werbeinformationen, z. B. durch Spam-Mails, vor.
 
 ---
 

@@ -11,11 +11,11 @@ booking: true
 </div>
 <div class="row" align="justify">
 ++++
-Yogaferien inmitten der Natur geben uns die Möglichkeit eine regenerative Entspannung für Körper, Geist und Seele zu erfahren.
+Yogaferien inmitten der Natur geben uns die Möglichkeit, eine regenerative Entspannung für Körper, Geist und Seele zu erfahren.
 Die Stille und Reinheit der Natur, die uns umgibt wirkt ausgleichend und beruhigend.
 
 Meditation, Pranayama, gesundes Essen und das Üben der Asanas unter der energiereichen Sonne Andalusiens lassen uns
-wieder fühlen welche Kraft in uns ist. Die tägliche Yoga-Praxis lässt uns schnell das spüren, was Yoga in uns wecken kann.
+wieder fühlen welche Kraft in uns ist. Die tägliche Yogapraxis lässt uns schnell das spüren, was Yoga in uns wecken kann.
 
 Genau diese Kombination bieten wir in unserem Seminarhaus nahe der Küste von Nerja in der Provinz Malaga an. Als reines
 Yogaseminarhaus haben wir einen festen Tagesablauf mit 2 Meditationen, 2 Yogastunden, 2 Mahlzeiten und genügend Freizeit,
@@ -38,9 +38,9 @@ und die Gedanken können sich mit dem reinen Sein im Hier und Jetzt beschäftige
 <div class="col-md-4" align="center">
 ++++
 image::/images/vegan.jpg[height=150, align=center]
-Vegane Ernährung ist eine konsequente Umsetzung des Yogagebotes des Ahimsa - der Gewaltlosigkeit. Allerdings ist auch
+Vegane Ernährung ist eine konsequente Umsetzung des Yogagebots des Ahimsa - der Gewaltlosigkeit. Allerdings ist auch
 aus rein gesundheitlichen und energetischen Aspekten eine vegane Ernährung sinnvoll. In unmittelbarer Umgebung von _Rio de la Miel_
-finden wir die meisten Produkte aus lokalem Anbau, die zu einer abwechslungstreichen und gesunden veganen Küche gehören.
+finden wir die meisten Produkte aus lokalem Anbau, die zu einer abwechslungsreichen und gesunden veganen Küche gehören.
 ++++
 
 </div>
@@ -51,7 +51,7 @@ finden wir die meisten Produkte aus lokalem Anbau, die zu einer abwechslungstrei
 ++++
 image::/images/Asana.png[height=150, align=center]
 Unsere Yogastunden bauen auf den 12 Grundstellungen (Asanas) des Hatha-Yogas auf. Atemübungen (Pranayama), Meditation und
-Tiefenentspannung helfen uns den Ausgleich zwischen Anspannung und Entspannung zu finden. Die Übungen sind so aufgebaut,
+Tiefenentspannung helfen uns, den Ausgleich zwischen Anspannung und Entspannung zu finden. Die Übungen sind so aufgebaut,
 dass unsere Yogaferien sowohl für Anfänger als auch für Fortgeschrittene geeignet sind.
 ++++
 </div>
