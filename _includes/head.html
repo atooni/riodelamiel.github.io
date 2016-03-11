@@ -1,5 +1,17 @@
 <meta charset="utf-8">
-<title>Rio de la Miel</title>
+{%if page.description %}
+<meta name="description" content="{{ page.description }}" />
+{% endif %}
+
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}" />
+{% endif %}
+
+{% if page.title %}
+<title>{{ page.title }}</title>
+{% else %}
+<title>{{site.data.translation['pagetitle'][page.lang]}}</title>
+{% endif %}
 
 <link rel="shortcut icon" href="/media/icons/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">

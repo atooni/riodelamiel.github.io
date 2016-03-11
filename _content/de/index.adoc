@@ -2,11 +2,14 @@
 key: index
 permalink: /
 booking: true
+description: Yoga-Ferien Andalusien - hier erwartet Dich Yoga mit vegan-meditativer Lebensweise.
+keywords: Meditation,Yoga-Ferien,Andalusien
+title: Rio de la Miel - Yogaferien in Andalusien
 ---
 ++++
 <div class="row" align="center">
 ++++
-== Yogakurse und -ferien unter der Sonne Andalusiens
+= Yogakurse und -ferien unter der Sonne Andalusiens
 ++++
 </div>
 <div class="row" align="justify">
@@ -23,13 +26,11 @@ um die nähere Umgebung und die reizvolle Landschaft Andalusiens zu entdecken.
 
 ++++
 </div>
-++++
 
-++++
 <div class="row">
 <div class="col-md-4" align="center">
 ++++
-image::/images/meditation.jpg[height=150, align=center]
+image::/images/meditation.jpg[height=150, align=center, alt="Meditation in Andalusien"]
 Die Meditation ist eine Erfahrung, die nur schwer zu beschreiben ist, denn sie ist reine Selbsterfahrung. Je tiefer die
 Meditation, um so mehr tritt die Bedeutung von Raum und Zeit in den Hintergrund. Der Alltag tritt ebenso in den Hintergrund
 und die Gedanken können sich mit dem reinen Sein im Hier und Jetzt beschäftigen.
@@ -37,19 +38,15 @@ und die Gedanken können sich mit dem reinen Sein im Hier und Jetzt beschäftige
 </div>
 <div class="col-md-4" align="center">
 ++++
-image::/images/vegan.jpg[height=150, align=center]
+image::/images/vegan.jpg[height=150, align=center, alt="Vegane Ernährung in Andalusien"]
 Vegane Ernährung ist eine konsequente Umsetzung des Yogagebots des Ahimsa - der Gewaltlosigkeit. Allerdings ist auch
 aus rein gesundheitlichen und energetischen Aspekten eine vegane Ernährung sinnvoll. In unmittelbarer Umgebung von _Rio de la Miel_
 finden wir die meisten Produkte aus lokalem Anbau, die zu einer abwechslungsreichen und gesunden veganen Küche gehören.
 ++++
-
 </div>
-++++
-
-++++
 <div class="col-md-4" align="center">
 ++++
-image::/images/Asana.png[height=150, align=center]
+image::/images/Asana.png[height=150, align=center, alt="Yoga in Andalusien"]
 Unsere Yogastunden bauen auf den 12 Grundstellungen (Asanas) des Hatha-Yogas auf. Atemübungen (Pranayama), Meditation und
 Tiefenentspannung helfen uns, den Ausgleich zwischen Anspannung und Entspannung zu finden. Die Übungen sind so aufgebaut,
 dass unsere Yogaferien sowohl für Anfänger als auch für Fortgeschrittene geeignet sind.

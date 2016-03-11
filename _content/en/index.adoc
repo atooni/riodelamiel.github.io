@@ -5,7 +5,7 @@ booking: true
 ++++
 <div class="row" align="center">
 ++++
-== Yoga courses and Yoga vacations beneath the sun of Andalucia
+== Yoga courses and Yoga vacations beneath the sun of Andalusia
 ++++
 </div>
 <div class="row" align="justify">
